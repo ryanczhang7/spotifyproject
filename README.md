@@ -1,12 +1,12 @@
 # Spotify Songs Project
-For my spotify data science project
+For my Spotify Data Science Project
 
 **Notebooks:**
-1. data gathering and cleaning
-2. EDA
-3. machine learning
+1. Spotify_Data_Acquisition: data gathering and cleaning
+2. Spotify_EDA: exploratory data analysis
+3. Spotify_ML: machine learning
 
-**CSV Files: **
+**CSV Files:**
 1. df_complete_songs: dataframe only containing songs of which I was able to scrape lyrics. Contains sentiment and personality analysis
 2. df_all_songs_sentiment: dataframe with all songs, lyrics (even if empty) and sentiment analysis
 3. df_hiphop_lyrics and df_pop_lyrics: dataframes containing just songs with audio features and lyrics
