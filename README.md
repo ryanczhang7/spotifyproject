@@ -5,9 +5,9 @@ For my Spotify Data Science Project
 1. Spotify_Data_Acquisition: data gathering and cleaning
 2. Spotify_EDA: exploratory data analysis
 3. Spotify_ML: machine learning
+4. Spotify_Presentation: presentation to my class
 
 **CSV Files:**
-1. df_complete_songs (851 observations): dataframe only containing songs of which I was able to scrape lyrics. Contains sentiment and personality analysis
-2. df_all_songs (1048 observations: dataframe with all songs, and audio features, and combination of df_hiphop and df_pop. trimmed some columns.
-3. df_hiphop_lyrics and df_pop_lyrics: dataframes containing just songs with audio features and lyrics
-4. df_hiphop and df_pop: dataframes contraining just songs and audio features.
+1. df_personality_sentiment (851 observations): dataframe only containing songs of which I was able to scrape lyrics. Contains sentiment and personality analysis (textual features).
+2. df_songs (1048 observations: dataframe with all songs, and audio features.
+3. df_hiphop and df_pop: dataframes contraining just songs and audio features.
