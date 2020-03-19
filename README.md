@@ -1,5 +1,5 @@
 # Spotify Songs Project
-For my Spotify Data Science Project
+For my Spotify Data Science Final Project
 
 **Notebooks:**
 1. Spotify_Data_Acquisition: data gathering and cleaning
