@@ -1,0 +1,504 @@
+uri,artist,album,name,artists,track_number,duration_ms,explicit,key,mode,time_signature,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,genre
+spotify:track:5qN4HFkapdAOV94XPryVof,Kendrick Lamar,Black Panther The Album Music From And Inspired By,Black Panther,['Kendrick Lamar'],1,130613,True,1,1,4,0.625,0.618,0.582,3.84e-06,0.265,-9.454,0.297,90.035,0.48,57,hiphop
+spotify:track:3GCdLUSnKSMJhs4Tj6CV3s,Kendrick Lamar,Black Panther The Album Music From And Inspired By,All The Stars,"['Kendrick Lamar', 'SZA']",2,232186,True,8,1,4,0.0605,0.698,0.633,0.000194,0.0926,-4.946,0.0597,96.924,0.552,78,hiphop
+spotify:track:4LmAnpjlhWTahvRkYR8xJa,Kendrick Lamar,Black Panther The Album Music From And Inspired By,X,"['ScHoolboy Q', '2 Chainz', 'Saudi']",3,267426,True,2,1,4,0.0201,0.768,0.471,0.0,0.268,-8.406,0.259,131.023,0.405,69,hiphop
+spotify:track:5jyyPsIGM2yqkZN9R3TmvN,Kendrick Lamar,Black Panther The Album Music From And Inspired By,The Ways,"['Khalid', 'Swae Lee']",4,238893,True,11,0,4,0.0626,0.727,0.72,1.21e-06,0.176,-5.856,0.0488,140.08,0.589,65,hiphop
+spotify:track:7bUcBztfGqO7cSI2gMZeCI,Kendrick Lamar,Black Panther The Album Music From And Inspired By,Opps,"['Vince Staples', 'Yugen Blakrok']",5,180893,True,1,1,4,0.152,0.706,0.775,3.32e-05,0.416,-6.819,0.335,127.929,0.847,59,hiphop
+spotify:track:0DJBgBiYeSn6n1AXAkFVE8,Kendrick Lamar,Black Panther The Album Music From And Inspired By,I Am,['Jorja Smith'],6,208760,True,8,0,4,0.144,0.601,0.583,9.73e-05,0.183,-5.725,0.263,148.785,0.32,62,hiphop
+spotify:track:2tPcTFiQF9MbVUyjZ3zDhA,Kendrick Lamar,Black Panther The Album Music From And Inspired By,Paramedic!,['SOB X RBE'],7,219306,True,1,1,4,0.177,0.856,0.652,0.0,0.193,-5.324,0.143,97.017,0.471,67,hiphop
+spotify:track:4KXwFI9pgJLpUIAc9oSL8j,Kendrick Lamar,Black Panther The Album Music From And Inspired By,Bloody Waters,"['Ab-Soul', 'Anderson .Paak', 'James Blake']",8,272306,True,8,1,4,0.185,0.507,0.606,0.0,0.174,-8.758,0.452,180.607,0.202,62,hiphop
+spotify:track:1eLSF6HfrRA0AsNmTkUlKx,Kendrick Lamar,Black Panther The Album Music From And Inspired By,King's Dead,"['Jay Rock', 'Kendrick Lamar', 'Future', 'James Blake']",9,225266,True,1,1,4,0.00102,0.566,0.724,0.0,0.158,-4.574,0.323,81.774,0.407,65,hiphop
+spotify:track:4FpfU1O7WCLBnmwu5XAFk4,Kendrick Lamar,Black Panther The Album Music From And Inspired By,Redemption Interlude,['Zacari'],10,85266,True,9,0,4,0.662,0.549,0.449,4.88e-05,0.0866,-13.645,0.104,121.164,0.223,52,hiphop
+spotify:track:76iVOVsliCHlWqKuDnCfhE,Kendrick Lamar,Black Panther The Album Music From And Inspired By,Redemption,"['Zacari', 'Babes Wodumo']",11,222093,True,11,0,4,0.139,0.778,0.765,0.0274,0.123,-7.175,0.128,125.062,0.642,56,hiphop
+spotify:track:35cOyocq8Gb6UcT0NWeTwn,Kendrick Lamar,Black Panther The Album Music From And Inspired By,Seasons,"['Mozzy', 'Sjava', 'REASON']",12,242293,True,1,1,4,0.28,0.629,0.554,0.0,0.158,-6.759,0.326,126.694,0.308,56,hiphop
+spotify:track:5cXg9IQS34FzLVdHhp7hu7,Kendrick Lamar,Black Panther The Album Music From And Inspired By,Big Shot,"['Kendrick Lamar', 'Travis Scott']",13,221826,True,1,1,4,0.00759,0.855,0.478,0.0,0.101,-9.116,0.193,130.018,0.284,67,hiphop
+spotify:track:77UjLW8j5UAGAGVGhR5oUK,Kendrick Lamar,Black Panther The Album Music From And Inspired By,Pray For Me,"['The Weeknd', 'Kendrick Lamar']",14,211440,True,2,1,4,0.0762,0.735,0.677,2.17e-05,0.111,-4.979,0.093,100.584,0.188,76,hiphop
+spotify:track:2PESSRrfGBuDrJ1I7rm8dc,Kendrick Lamar,DAMN. COLLECTORS EDITION.,DUCKWORTH.,['Kendrick Lamar'],1,248613,True,7,1,4,0.0536,0.552,0.731,0.0,0.258,-6.873,0.615,174.516,0.632,46,hiphop
+spotify:track:4suzR7RVn00QijvJPkMVMf,Kendrick Lamar,DAMN. COLLECTORS EDITION.,GOD.,['Kendrick Lamar'],2,248826,True,0,1,4,0.0347,0.706,0.557,0.0,0.276,-5.8,0.0813,132.98,0.205,45,hiphop
+spotify:track:28J8MZFrSMvd5gWxAGRBq1,Kendrick Lamar,DAMN. COLLECTORS EDITION.,FEAR.,['Kendrick Lamar'],3,460573,True,1,1,4,0.604,0.588,0.479,7.2e-06,0.527,-7.039,0.281,150.414,0.434,45,hiphop
+spotify:track:0lJZRic5kToowUXH35uy7P,Kendrick Lamar,DAMN. COLLECTORS EDITION.,XXX. FEAT. U2.,"['Kendrick Lamar', 'U2']",4,254200,True,1,1,4,0.138,0.568,0.619,1.67e-06,0.11,-6.899,0.414,170.115,0.293,45,hiphop
+spotify:track:0R9U7yIlLm8KAL6iQbwKKT,Kendrick Lamar,DAMN. COLLECTORS EDITION.,LOVE. FEAT. ZACARI.,"['Kendrick Lamar', 'Zacari']",5,213400,True,10,1,4,0.264,0.8,0.585,0.0,0.153,-7.343,0.0924,126.058,0.779,46,hiphop
+spotify:track:1PKNKessUE10zYclDWNRfE,Kendrick Lamar,DAMN. COLLECTORS EDITION.,LUST.,['Kendrick Lamar'],6,307880,True,3,0,4,0.193,0.678,0.562,0.0,0.104,-9.197,0.508,94.241,0.566,44,hiphop
+spotify:track:0gvQoTWRxsW5Rd7KgPp0u3,Kendrick Lamar,DAMN. COLLECTORS EDITION.,HUMBLE.,['Kendrick Lamar'],7,177000,True,1,0,4,0.000282,0.908,0.621,5.39e-05,0.0958,-6.638,0.102,150.011,0.421,46,hiphop
+spotify:track:1P9LiOkE3LnKSYsoz1F8A7,Kendrick Lamar,DAMN. COLLECTORS EDITION.,PRIDE.,['Kendrick Lamar'],8,275253,True,4,0,4,0.0786,0.665,0.535,1.68e-05,0.154,-7.056,0.0572,138.842,0.37,45,hiphop
+spotify:track:0Omhxcy38tjNxqVZshdfpf,Kendrick Lamar,DAMN. COLLECTORS EDITION.,LOYALTY. FEAT. RIHANNA.,"['Kendrick Lamar', 'Rihanna']",9,227360,True,9,0,4,0.0265,0.658,0.535,0.0,0.2,-8.983,0.0573,110.684,0.419,45,hiphop
+spotify:track:3hKPfWwm32Nv7Xj57lrxeC,Kendrick Lamar,DAMN. COLLECTORS EDITION.,FEEL.,['Kendrick Lamar'],10,214826,True,0,1,4,0.137,0.746,0.798,0.0,0.139,-8.382,0.349,109.968,0.553,43,hiphop
+spotify:track:3uubYELqTxIOqGalMtUq63,Kendrick Lamar,DAMN. COLLECTORS EDITION.,ELEMENT.,['Kendrick Lamar'],11,208733,True,4,0,4,0.204,0.748,0.705,0.0,0.246,-4.547,0.485,189.891,0.483,46,hiphop
+spotify:track:7tC6nVqWp4FALU6I3li1g9,Kendrick Lamar,DAMN. COLLECTORS EDITION.,YAH.,['Kendrick Lamar'],12,160293,True,1,1,4,0.576,0.67,0.7,5.34e-06,0.226,-7.893,0.196,69.986,0.648,43,hiphop
+spotify:track:4odAJ4IxmYzy3co4TeYP24,Kendrick Lamar,DAMN. COLLECTORS EDITION.,DNA.,['Kendrick Lamar'],13,185946,True,1,1,4,0.00454,0.638,0.523,0.0,0.0842,-6.664,0.357,139.913,0.422,46,hiphop
+spotify:track:1WonGCoO1sz7I4aD0HRbXy,Kendrick Lamar,DAMN. COLLECTORS EDITION.,BLOOD.,['Kendrick Lamar'],14,118066,True,8,0,4,0.142,0.357,0.238,0.0859,0.55,-16.78,0.265,156.907,0.494,40,hiphop
+spotify:track:6OkOFxU6j0UufR97VgSnS7,Kendrick Lamar,untitled unmastered.,untitled 01 | 08.19.2014.,['Kendrick Lamar'],1,247746,True,2,1,4,0.321,0.57,0.584,0.0,0.0868,-11.708,0.405,102.19,0.107,49,hiphop
+spotify:track:3I0FBDc1c1BLNtXWKVjmFg,Kendrick Lamar,untitled unmastered.,untitled 02 | 06.23.2014.,['Kendrick Lamar'],2,258826,True,5,1,3,0.341,0.667,0.508,0.0,0.644,-10.337,0.451,89.436,0.093,61,hiphop
+spotify:track:2fgAJeky8Cpsr8Cfvn2NVp,Kendrick Lamar,untitled unmastered.,untitled 03 | 05.28.2013.,['Kendrick Lamar'],3,154346,True,5,0,4,0.608,0.813,0.549,1e-06,0.129,-12.427,0.269,103.914,0.562,53,hiphop
+spotify:track:1U13SSgDOxK98L1FTWYrjQ,Kendrick Lamar,untitled unmastered.,untitled 04 | 08.14.2014.,['Kendrick Lamar'],4,110066,True,4,0,4,0.864,0.512,0.128,0.0,0.512,-21.49,0.252,103.056,0.219,49,hiphop
+spotify:track:3V8vWoCbKbfjNrPaQ4YtSg,Kendrick Lamar,untitled unmastered.,untitled 05 | 09.21.2014.,['Kendrick Lamar'],5,338426,True,0,1,4,0.321,0.461,0.62,0.0,0.151,-9.822,0.496,153.941,0.422,52,hiphop
+spotify:track:4M2t7bP4Mq87mGMn0PObUX,Kendrick Lamar,untitled unmastered.,untitled 06 | 06.30.2014.,['Kendrick Lamar'],6,208013,True,4,0,4,0.0992,0.669,0.541,7.69e-06,0.254,-11.291,0.0461,89.083,0.645,54,hiphop
+spotify:track:40IQooNkPRVtn4zlE3ZFpA,Kendrick Lamar,untitled unmastered.,untitled 07 | 2014 - 2016,['Kendrick Lamar'],7,496173,True,6,0,4,0.732,0.567,0.463,0.0,0.709,-11.669,0.504,126.982,0.324,59,hiphop
+spotify:track:5bBUDJUfGcG7eFy3Bf4fXv,Kendrick Lamar,untitled unmastered.,untitled 08 | 09.06.2014.,['Kendrick Lamar'],8,235506,True,11,0,4,0.25,0.85,0.524,2.46e-06,0.114,-9.375,0.204,120.004,0.686,56,hiphop
+spotify:track:7Ks4VCY1wFebnOdJrM13t6,Kendrick Lamar,To Pimp A Butterfly,Wesley's Theory,"['Kendrick Lamar', 'George Clinton', 'Thundercat']",1,287360,True,7,1,4,0.359,0.509,0.787,2.76e-05,0.26,-6.754,0.265,114.449,0.507,61,hiphop
+spotify:track:75izAeHlGuOgA865CFDyIv,Kendrick Lamar,To Pimp A Butterfly,For Free? - Interlude,['Kendrick Lamar'],2,130893,True,8,1,1,0.588,0.526,0.896,0.0,0.37,-4.708,0.197,129.313,0.745,56,hiphop
+spotify:track:0N3W5peJUQtI4eyR6GJT5O,Kendrick Lamar,To Pimp A Butterfly,King Kunta,['Kendrick Lamar'],3,234693,True,6,0,4,0.00589,0.884,0.657,0.0,0.154,-4.569,0.0977,107.059,0.489,73,hiphop
+spotify:track:4oFtLSgHyZPNYDCcANhTnO,Kendrick Lamar,To Pimp A Butterfly,Institutionalized,"['Kendrick Lamar', 'Bilal', 'Anna Wise', 'Snoop Dogg']",4,271773,True,3,0,4,0.112,0.539,0.731,1.19e-06,0.129,-5.085,0.453,81.114,0.568,59,hiphop
+spotify:track:7uWVT3UkCAZyANvv0bdyQn,Kendrick Lamar,To Pimp A Butterfly,These Walls,"['Kendrick Lamar', 'Bilal', 'Anna Wise', 'Thundercat']",5,300973,True,1,1,4,0.11,0.752,0.489,3.57e-06,0.202,-5.233,0.137,108.005,0.373,62,hiphop
+spotify:track:1bxEpNR75Hq3T2oF9AZjt8,Kendrick Lamar,To Pimp A Butterfly,u,['Kendrick Lamar'],6,268493,True,11,0,4,0.26,0.406,0.798,0.0,0.461,-5.585,0.432,71.547,0.58,59,hiphop
+spotify:track:3iVcZ5G6tvkXZkZKlMpIUs,Kendrick Lamar,To Pimp A Butterfly,Alright,['Kendrick Lamar'],7,219333,True,7,1,4,0.0742,0.796,0.766,0.0,0.0827,-5.974,0.238,110.034,0.558,71,hiphop
+spotify:track:7unx2Rvsq8D0RfOLRXclTA,Kendrick Lamar,To Pimp A Butterfly,For Sale? - Interlude,['Kendrick Lamar'],8,291720,True,2,1,3,0.442,0.301,0.686,0.000115,0.121,-8.36,0.0831,79.036,0.276,55,hiphop
+spotify:track:0CjJqkWOpIUXdem5hUcxAk,Kendrick Lamar,To Pimp A Butterfly,Momma,['Kendrick Lamar'],9,283120,True,1,1,5,0.254,0.615,0.743,0.0,0.665,-4.58,0.325,111.914,0.515,57,hiphop
+spotify:track:2UOYzhusMTypF7oAQwksCj,Kendrick Lamar,To Pimp A Butterfly,Hood Politics,['Kendrick Lamar'],10,292520,True,6,0,4,0.145,0.731,0.661,0.0,0.12,-6.562,0.376,87.912,0.369,59,hiphop
+spotify:track:4tQcyj5488alHT1ZgFduzn,Kendrick Lamar,To Pimp A Butterfly,How Much A Dollar Cost,"['Kendrick Lamar', 'James Fauntleroy', 'Ronald Isley']",11,261746,True,1,1,4,0.415,0.624,0.729,0.0,0.135,-4.747,0.198,87.948,0.334,58,hiphop
+spotify:track:72hFOhhhnOJZnnp6uVOgPn,Kendrick Lamar,To Pimp A Butterfly,Complexion,"['Kendrick Lamar', 'Rapsody']",12,263360,True,2,0,4,0.566,0.665,0.558,4.57e-06,0.219,-7.863,0.303,89.953,0.37,56,hiphop
+spotify:track:5Mtt6tZSZA9cXTHGSGpyh0,Kendrick Lamar,To Pimp A Butterfly,The Blacker The Berry,['Kendrick Lamar'],13,328826,True,10,0,4,0.00713,0.553,0.852,0.0,0.463,-4.08,0.305,176.058,0.27,60,hiphop
+spotify:track:7A3ETuOrieyx9KSF0sn0Zf,Kendrick Lamar,To Pimp A Butterfly,You Ain't Gotta Lie,['Kendrick Lamar'],14,241680,True,11,0,4,0.455,0.443,0.635,2.07e-05,0.285,-5.404,0.223,93.742,0.672,56,hiphop
+spotify:track:3ODXRUPL44f04cCacwiCLC,Kendrick Lamar,To Pimp A Butterfly,i,['Kendrick Lamar'],15,336013,True,8,1,4,0.708,0.541,0.809,0.0,0.72,-4.286,0.324,120.094,0.753,60,hiphop
+spotify:track:1WT11QmhZutciEv1NsHt1R,Kendrick Lamar,To Pimp A Butterfly,Mortal Man,['Kendrick Lamar'],16,727106,True,10,0,4,0.665,0.567,0.525,0.0,0.708,-9.043,0.75,86.935,0.416,53,hiphop
+spotify:track:5FF6Pyuh5jW6ybKHiaiGMy,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",Sherane a.k.a Master Splinter’s Daughter,['Kendrick Lamar'],1,273640,True,10,0,4,0.486,0.503,0.508,0.0102,0.124,-11.094,0.52,81.908,0.317,49,hiphop
+spotify:track:5h5tBFnbcVioFXiOixTn6E,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)","Bitch, Don’t Kill My Vibe",['Kendrick Lamar'],2,310720,True,1,1,4,0.0152,0.587,0.698,0.0,0.442,-8.948,0.0943,133.954,0.0985,64,hiphop
+spotify:track:1BR5vhAlaoUiijQ28p6jlN,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",Backseat Freestyle,['Kendrick Lamar'],3,212653,True,1,1,4,0.000739,0.546,0.651,0.0,0.235,-7.601,0.3,77.878,0.646,59,hiphop
+spotify:track:4F8rYEoiBjPaRgQXLVtN5a,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",The Art of Peer Pressure,['Kendrick Lamar'],4,324533,True,10,0,4,0.286,0.555,0.611,0.00106,0.273,-9.216,0.356,94.939,0.411,54,hiphop
+spotify:track:0UtnpKaReKUg2GquaSxCyD,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",Money Trees,"['Kendrick Lamar', 'Jay Rock']",5,386906,True,7,1,4,0.0703,0.716,0.531,0.0,0.224,-7.355,0.122,71.994,0.344,65,hiphop
+spotify:track:3MLOAIJNWWS8FQpvdaiKR7,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",Poetic Justice,"['Kendrick Lamar', 'Drake']",6,300160,True,6,0,4,0.157,0.779,0.572,0.0,0.246,-9.985,0.378,135.956,0.647,61,hiphop
+spotify:track:0PKJxo97zXT8oAwl2zFnPh,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",good kid,['Kendrick Lamar'],7,214120,True,5,0,4,0.0623,0.451,0.831,0.0,0.185,-8.641,0.307,176.162,0.41,52,hiphop
+spotify:track:3qX1dqmDdmMvvfMVfsx4Bh,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",m.A.A.d city,"['Kendrick Lamar', 'MC Eiht']",8,350120,True,2,1,4,0.0538,0.487,0.729,4.07e-06,0.44,-6.815,0.271,91.048,0.217,66,hiphop
+spotify:track:40wUM3LFZOlUcZfxEIZrYK,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",Swimming Pools - Extended Version,['Kendrick Lamar'],9,313786,True,1,1,4,0.123,0.716,0.485,2.69e-05,0.604,-7.745,0.404,74.132,0.26,61,hiphop
+spotify:track:1Z2FvDFZSDQ23s4BDqpWqZ,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)","Sing About Me, I'm Dying Of Thirst",['Kendrick Lamar'],10,723573,True,11,0,5,0.303,0.654,0.753,8.08e-05,0.13,-7.556,0.395,110.722,0.371,55,hiphop
+spotify:track:73eGiraiU7JkIsmFyQyJAv,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",Real,"['Kendrick Lamar', 'Anna Wise']",11,443413,True,1,1,4,0.0282,0.652,0.458,0.0,0.664,-12.272,0.194,100.046,0.174,50,hiphop
+spotify:track:0O6cYePgIBlMQ0pAFate3q,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",Compton,"['Kendrick Lamar', 'Dr. Dre']",12,248093,True,1,0,4,0.0815,0.342,0.907,0.0,0.383,-4.432,0.415,170.38,0.225,50,hiphop
+spotify:track:5jHilrZDaP1vJMZfdN1He3,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",The Recipe - Bonus Track,"['Kendrick Lamar', 'Dr. Dre']",1,352853,True,11,0,4,0.000589,0.759,0.782,0.0,0.35,-6.975,0.0741,131.04,0.507,58,hiphop
+spotify:track:6P6HGbOoWUynE2U7yLwLnY,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",Black Boy Fly - Bonus Track,['Kendrick Lamar'],2,279146,True,1,1,4,0.108,0.593,0.731,1.52e-06,0.103,-5.21,0.149,160.084,0.61,47,hiphop
+spotify:track:0NfYAsKygCYwPA2BgTZ1qg,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",Now Or Never - Bonus Track,"['Kendrick Lamar', 'Mary J. Blige']",3,256213,False,7,0,4,0.264,0.528,0.708,0.0,0.305,-5.879,0.207,97.8,0.781,51,hiphop
+spotify:track:4wshBvO4qMrxJnPlfkeUWi,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)","Bitch, Don’t Kill My Vibe - Remix","['Kendrick Lamar', 'JAY-Z']",4,278586,True,1,1,4,0.0513,0.636,0.788,0.0,0.204,-5.766,0.252,133.722,0.143,50,hiphop
+spotify:track:1IjxCFAyR1ysajk10iHsKh,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)","Bitch, Don’t Kill My Vibe - International Remix / Explicit Version","['Kendrick Lamar', 'Emeli Sandé']",5,305813,True,1,1,4,0.0109,0.67,0.811,0.0,0.503,-6.61,0.0815,134.057,0.082,45,hiphop
+spotify:track:5pu7aEkjSMFVxFiboIDixE,J. Cole,Revenge Of The Dreamers III: Director's Cut,Under The Sun,"['Dreamville', 'J. Cole', 'Lute', 'DaBaby']",1,201773,True,0,1,4,0.539,0.723,0.656,0.0,0.298,-6.432,0.338,138.836,0.155,60,hiphop
+spotify:track:1SYZeqExX1250udNlaEAze,J. Cole,Revenge Of The Dreamers III: Director's Cut,Down Bad,"['Dreamville', 'JID', 'Bas', 'J. Cole', 'EARTHGANG', 'Young Nudy']",2,169146,True,0,1,4,0.038,0.81,0.584,0.0,0.0559,-5.364,0.339,149.814,0.715,57,hiphop
+spotify:track:7KNE7h5dcOP8HgfrlAkHuE,J. Cole,Revenge Of The Dreamers III: Director's Cut,LamboTruck,"['Dreamville', 'Cozz', 'REASON', 'Childish Major']",3,229386,True,10,0,4,0.0514,0.659,0.693,0.0,0.184,-5.268,0.298,135.001,0.261,53,hiphop
+spotify:track:4ucPhGibPjInOykvVNViRU,J. Cole,Revenge Of The Dreamers III: Director's Cut,"Swivel - From The Album ""Mirrorland""","['Dreamville', 'EARTHGANG']",4,194613,True,2,1,5,0.247,0.594,0.545,0.0,0.239,-7.208,0.416,109.839,0.404,53,hiphop
+spotify:track:5bnMRsrpblLaINuPh6b6QA,J. Cole,Revenge Of The Dreamers III: Director's Cut,Oh Wow...Swerve,"['Dreamville', 'J. Cole', 'Zoink Gang', 'KEY!', 'Maxo Kream']",5,275986,True,1,1,3,0.375,0.518,0.713,1.09e-06,0.279,-6.143,0.508,165.265,0.307,53,hiphop
+spotify:track:5NiJFLsaw1cUP80CPyMjdN,J. Cole,Revenge Of The Dreamers III: Director's Cut,Don't Hit Me Right Now,"['Dreamville', 'Bas', 'Cozz', 'Yung Baby Tate', 'Guapdad 4000', 'Buddy']",6,174360,True,10,0,4,0.59,0.78,0.59,0.0,0.151,-6.587,0.123,123.98,0.493,52,hiphop
+spotify:track:1tJfLhetVOhr9QtvMVTDrg,J. Cole,Revenge Of The Dreamers III: Director's Cut,Wells Fargo - Interlude,"['Dreamville', 'JID', 'EARTHGANG', 'Buddy', 'Guapdad 4000']",7,123413,True,1,1,4,0.0728,0.799,0.827,5.3e-06,0.181,-3.198,0.103,148.022,0.24,54,hiphop
+spotify:track:0qkiLDGEMIvrpSRIyAU6Xy,J. Cole,Revenge Of The Dreamers III: Director's Cut,Sleep Deprived,"['Dreamville', 'Lute', 'Omen', 'Mez', 'DaVionne']",8,238453,True,11,0,4,0.286,0.56,0.798,0.0,0.522,-4.282,0.355,88.174,0.716,52,hiphop
+spotify:track:6icmAHgt5ZcKijVxGme5ug,J. Cole,Revenge Of The Dreamers III: Director's Cut,Self Love,"['Dreamville', 'Ari Lennox', 'Bas', 'Baby Rose']",9,223013,True,5,1,4,0.189,0.759,0.7,0.0,0.119,-6.161,0.0593,106.05,0.199,52,hiphop
+spotify:track:001tGjS4WX77wtQGCP8Sfm,J. Cole,Revenge Of The Dreamers III: Director's Cut,"Ladies, Ladies, Ladies","['Dreamville', 'JID', 'T.I.']",10,167786,True,6,0,4,0.638,0.558,0.671,0.0,0.301,-5.955,0.292,80.436,0.485,51,hiphop
+spotify:track:6stSUCyAY8mfBX00Nc5UuI,J. Cole,Revenge Of The Dreamers III: Director's Cut,Costa Rica,"['Dreamville', 'Bas', 'JID', 'Guapdad 4000', 'Reese LAFLARE', 'Jace', 'Mez', 'Smokepurpp', 'Buddy', 'Ski Mask The Slump God']",11,217866,True,7,0,4,0.532,0.832,0.648,0.0,0.0705,-6.383,0.37,120.933,0.624,53,hiphop
+spotify:track:5lnkEsVe0nThSA7YcvzTLA,J. Cole,Revenge Of The Dreamers III: Director's Cut,1993,"['Dreamville', 'J. Cole', 'JID', 'Cozz', 'EARTHGANG', 'Smino', 'Buddy']",12,210466,True,7,1,4,0.528,0.524,0.725,0.0,0.592,-5.318,0.625,177.677,0.689,53,hiphop
+spotify:track:1zJ7ymdM0xajHw4ZYLICBo,J. Cole,Revenge Of The Dreamers III: Director's Cut,Rembrandt...Run It Back,"['Dreamville', 'JID', 'J. Cole', 'Vince Staples']",13,151826,True,1,1,4,0.405,0.712,0.555,0.00191,0.0844,-6.059,0.411,140.425,0.259,51,hiphop
+spotify:track:1RSjLwX6inbcfF23cuqgrM,J. Cole,Revenge Of The Dreamers III: Director's Cut,Sunset,"['Dreamville', 'J. Cole', 'Young Nudy']",14,178373,True,1,1,4,0.153,0.923,0.382,0.0,0.151,-7.117,0.199,129.927,0.406,52,hiphop
+spotify:track:19Yum3jpUU8gey1Ue0dP4m,J. Cole,Revenge Of The Dreamers III: Director's Cut,Got Me,"['Dreamville', 'Ari Lennox', 'Omen', 'Ty Dolla $ign', 'Dreezy']",15,284040,True,7,0,4,0.146,0.699,0.611,0.0,0.0959,-6.439,0.338,76.276,0.461,50,hiphop
+spotify:track:7CX1m1nI25iiNoOgRKNoIT,J. Cole,Revenge Of The Dreamers III: Director's Cut,MIDDLE CHILD,['J. Cole'],16,213000,True,8,1,4,0.191,0.839,0.484,0.0,0.254,-6.9,0.242,126.021,0.513,50,hiphop
+spotify:track:5wYslsQvKIIWDt7PN6Y0zd,J. Cole,Revenge Of The Dreamers III: Director's Cut,PTSD,"['Dreamville', 'Omen', 'Mereba', ""Deante' Hitchcock"", 'St. Beauty']",17,237853,True,1,1,4,0.115,0.547,0.875,1.39e-06,0.144,-5.417,0.439,95.306,0.594,49,hiphop
+spotify:track:33mhcaisagS8xc7ZTckRU9,J. Cole,Revenge Of The Dreamers III: Director's Cut,Sacrifices,"['Dreamville', 'EARTHGANG', 'J. Cole', 'Smino', 'Saba']",18,382306,True,0,1,4,0.101,0.827,0.685,0.0,0.109,-6.978,0.407,146.995,0.275,53,hiphop
+spotify:track:2pQUmVMJiuGx3Dh0daDcJz,J. Cole,Revenge Of The Dreamers III: Director's Cut,Big Black Truck,"['Dreamville', 'JID']",19,152973,True,9,1,4,0.451,0.607,0.48,0.0,0.357,-7.833,0.635,171.332,0.142,64,hiphop
+spotify:track:7pTnbqbltYggOYbXrIE3V9,J. Cole,Revenge Of The Dreamers III: Director's Cut,Still Up,"['Dreamville', 'EARTHGANG', 'REASON']",20,205200,True,10,0,4,0.0894,0.849,0.692,0.0,0.205,-5.555,0.119,150.003,0.512,57,hiphop
+spotify:track:1MobF57nbROs1ml9IYEzwN,J. Cole,Revenge Of The Dreamers III: Director's Cut,Outta Pocket,"['Dreamville', 'Bas', 'Cozz', 'Girl Talk']",21,157213,True,2,1,4,0.244,0.91,0.456,0.00741,0.0842,-7.421,0.0642,129.989,0.554,60,hiphop
+spotify:track:5hrDDQTYaIH6iD2zX7uuoj,J. Cole,Revenge Of The Dreamers III: Director's Cut,Late Night,"['Dreamville', 'Cozz', 'Omen', 'Buddy', 'Landstrip Chip']",22,196920,True,1,1,4,0.103,0.678,0.656,0.0,0.316,-7.803,0.507,125.451,0.711,57,hiphop
+spotify:track:1tJq10vQnqYI0eiZd9FkEB,J. Cole,Revenge Of The Dreamers III: Director's Cut,Spin Move,"['Dreamville', 'Bas', 'Saba', 'Smino', 'The Hics']",23,223533,True,7,1,4,0.07,0.784,0.559,1.82e-06,0.169,-8.401,0.427,75.098,0.565,57,hiphop
+spotify:track:39KiTKARPALXdEYaG5tqFM,J. Cole,Revenge Of The Dreamers III: Director's Cut,BUSSIT,"['Dreamville', 'Ari Lennox']",24,150720,True,1,1,4,0.22,0.796,0.563,1.44e-06,0.077,-6.421,0.363,144.96,0.485,65,hiphop
+spotify:track:18AFdCGyTiy6WtTDlx1HnN,J. Cole,Revenge Of The Dreamers III: Director's Cut,Passcode,"['Dreamville', 'Ari Lennox', 'Buddy', 'Smino', 'Mez', 'Guapdad 4000']",25,206000,True,1,1,4,0.555,0.626,0.42,2.64e-06,0.117,-9.459,0.54,140.929,0.604,55,hiphop
+spotify:track:6k6QKZTfsSkLcARPA3VY4D,J. Cole,Revenge Of The Dreamers III: Director's Cut,Up Up Away,"['Dreamville', 'JID', 'EARTHGANG', 'Vince Staples']",26,199706,True,1,1,4,0.0333,0.882,0.573,0.0,0.316,-6.052,0.237,77.977,0.483,60,hiphop
+spotify:track:7oL60LH1UJgqauinmCYiGr,J. Cole,Revenge Of The Dreamers III: Director's Cut,No Chorus,"['Dreamville', 'Bas', 'Dreezy', 'Buddy', 'Guapdad 4000']",27,202213,True,2,1,4,0.238,0.691,0.392,0.0,0.149,-9.534,0.25,148.297,0.0891,57,hiphop
+spotify:track:6Kwblq3Rf6KWDPK3kUpNBg,J. Cole,Revenge Of The Dreamers III: Director's Cut,Disgusted,"['Dreamville', 'Cozz', 'Childish Major']",28,163053,True,7,0,4,0.133,0.514,0.676,0.0,0.0832,-5.322,0.325,86.836,0.327,55,hiphop
+spotify:track:54DECsrTA7p2WdAllfCupL,J. Cole,Revenge Of The Dreamers III: Director's Cut,Revenge,"['Dreamville', 'Lute', 'Omen', 'Ari Lennox', 'EARTHGANG', 'Childish Major', 'REASON']",29,333226,True,11,0,4,0.0389,0.663,0.805,0.0,0.341,-6.87,0.387,151.091,0.218,54,hiphop
+spotify:track:1hp7uTRi0jYcN6wgFP077U,J. Cole,Revenge Of The Dreamers III: Director's Cut,Still Dreamin,"['Dreamville', 'JID', 'Lute', '6LACK']",30,261053,True,0,1,4,0.478,0.452,0.557,1.75e-06,0.0945,-6.425,0.261,82.411,0.38,63,hiphop
+spotify:track:52Hq1nvCDDZ17dhgGWLnCI,J. Cole,KOD,Intro,['J. Cole'],1,107160,False,8,0,3,0.811,0.512,0.28,7.48e-05,0.087,-16.708,0.0441,111.446,0.545,52,hiphop
+spotify:track:7yotKA30dwTKNEGomV9ZsI,J. Cole,KOD,KOD,['J. Cole'],2,191436,True,0,1,4,0.21,0.831,0.782,0.0,0.113,-6.274,0.15,141.869,0.199,72,hiphop
+spotify:track:0bhnUFDQFCEHCBlsQfHnj5,J. Cole,KOD,Photograph,['J. Cole'],3,218953,True,1,1,3,0.0299,0.825,0.487,0.0,0.0868,-6.416,0.233,105.05,0.372,64,hiphop
+spotify:track:3rFF7kSm5qBOOPs6ljFgPp,J. Cole,KOD,The Cut Off,"['J. Cole', 'kiLL edward']",4,237295,True,1,1,4,0.185,0.74,0.543,0.0,0.372,-7.979,0.399,78.198,0.337,60,hiphop
+spotify:track:2UciqgwVDwro0fev3MFbxJ,J. Cole,KOD,ATM,['J. Cole'],5,216726,True,8,1,4,0.115,0.719,0.497,0.0,0.0898,-7.661,0.681,81.651,0.345,68,hiphop
+spotify:track:1AT4xjNarTswd0UZ5FlmKF,J. Cole,KOD,Motiv8,['J. Cole'],6,133921,True,4,1,4,0.135,0.869,0.385,0.0,0.0931,-7.801,0.297,149.897,0.596,66,hiphop
+spotify:track:6tZ3b7ik1QDXFAZlXib0YZ,J. Cole,KOD,Kevin’s Heart,['J. Cole'],7,200309,True,6,0,4,0.482,0.829,0.527,0.0,0.631,-6.644,0.367,116.078,0.473,73,hiphop
+spotify:track:5sWbwccBcyHsg5LEKWGZo9,J. Cole,KOD,BRACKETS,['J. Cole'],8,315771,True,10,0,4,0.19,0.675,0.567,1.77e-06,0.175,-9.147,0.263,84.039,0.658,62,hiphop
+spotify:track:0Px86mRlxdB3YqpK6KXWlr,J. Cole,KOD,Once an Addict,['J. Cole'],9,197821,True,8,1,4,0.626,0.548,0.472,0.0,0.119,-8.343,0.477,82.36,0.138,58,hiphop
+spotify:track:6onwlDmIVKE8bBgyBRSuS0,J. Cole,KOD,FRIENDS,"['J. Cole', 'kiLL edward']",10,257646,True,6,0,5,0.102,0.716,0.652,0.0,0.11,-7.909,0.398,109.295,0.494,60,hiphop
+spotify:track:5Lgqu1th1KqlG97OF2gWGe,J. Cole,KOD,Window Pain,['J. Cole'],11,286729,True,8,1,4,0.0607,0.72,0.626,0.0,0.0728,-9.351,0.397,75.032,0.182,61,hiphop
+spotify:track:7EulRO07ZgchxqKUHb8Pvc,J. Cole,KOD,1985,['J. Cole'],12,190176,True,2,1,4,0.147,0.678,0.648,0.0,0.182,-5.892,0.445,94.336,0.635,67,hiphop
+spotify:track:3MWlVSkoLS1e66nlZ2tuWJ,J. Cole,4 Your Eyez Only,For Whom The Bell Tolls,['J. Cole'],1,127880,True,10,0,4,0.536,0.595,0.416,0.0,0.293,-10.957,0.0366,74.556,0.185,58,hiphop
+spotify:track:6AGON2BGdPmPMJGiiNuuwl,J. Cole,4 Your Eyez Only,Immortal,['J. Cole'],2,201666,True,3,0,4,0.455,0.744,0.43,2.73e-06,0.126,-10.604,0.309,92.039,0.266,65,hiphop
+spotify:track:6I6NX6tjGsxFAsIfGzY9lJ,J. Cole,4 Your Eyez Only,Deja Vu,['J. Cole'],3,264746,True,9,1,4,0.352,0.657,0.421,0.000218,0.187,-11.378,0.412,174.063,0.181,69,hiphop
+spotify:track:2z3joGXrdGL2iEjIKQTiN1,J. Cole,4 Your Eyez Only,Ville Mentality,['J. Cole'],4,194346,True,7,0,3,0.745,0.87,0.386,0.00013,0.122,-7.843,0.0684,119.91,0.642,62,hiphop
+spotify:track:0HtOJj7Kl74s1Ngf3MWeif,J. Cole,4 Your Eyez Only,She's Mine Pt. 1,['J. Cole'],5,209080,True,2,1,4,0.766,0.439,0.204,0.0913,0.284,-15.165,0.0587,139.652,0.0408,60,hiphop
+spotify:track:3pjUyVbFmM96tYhSaKJwTt,J. Cole,4 Your Eyez Only,Change,['J. Cole'],6,331480,True,11,0,4,0.666,0.74,0.523,0.00142,0.0968,-10.753,0.233,97.063,0.235,64,hiphop
+spotify:track:0utlOiJy2weVl9WTkcEWHy,J. Cole,4 Your Eyez Only,Neighbors,['J. Cole'],7,216520,True,6,0,4,0.319,0.898,0.283,0.000383,0.11,-12.335,0.356,138.97,0.469,72,hiphop
+spotify:track:77IAeEz8LEchPN8UNjaTJ2,J. Cole,4 Your Eyez Only,Foldin Clothes,['J. Cole'],8,316920,True,7,0,4,0.234,0.698,0.487,0.00086,0.0724,-9.887,0.312,161.943,0.614,58,hiphop
+spotify:track:5rmcjZTrE9JR1YrbNZDFNW,J. Cole,4 Your Eyez Only,She's Mine Pt. 2,['J. Cole'],9,278920,True,2,1,4,0.798,0.486,0.194,0.00624,0.114,-15.265,0.0712,70.031,0.048,58,hiphop
+spotify:track:1vvnYpYEMVB4aq9I6tHIEB,J. Cole,4 Your Eyez Only,4 Your Eyez Only,['J. Cole'],10,530253,True,11,0,4,0.367,0.701,0.485,6.31e-05,0.0852,-10.305,0.364,78.863,0.496,64,hiphop
+spotify:track:4YwNf1fLZt9IQhJeHNWfBi,J. Cole,2014 Forest Hills Drive,Intro,['J. Cole'],1,129266,True,7,0,4,0.844,0.456,0.268,0.0693,0.107,-15.164,0.0417,78.531,0.12,56,hiphop
+spotify:track:6NyhBA9M6KK0fuVsojxL00,J. Cole,2014 Forest Hills Drive,January 28th,['J. Cole'],2,242813,True,5,1,4,0.259,0.483,0.546,0.0,0.0951,-8.59,0.349,81.967,0.372,62,hiphop
+spotify:track:6Ius4TC0L3cN74HT7ENE6e,J. Cole,2014 Forest Hills Drive,Wet Dreamz,['J. Cole'],3,239320,True,6,0,4,0.0752,0.504,0.705,0.0,0.128,-8.205,0.364,175.483,0.584,77,hiphop
+spotify:track:4txn9qnwK3ILQqv5oq2mO3,J. Cole,2014 Forest Hills Drive,03' Adolescence,['J. Cole'],4,264213,True,1,1,4,0.389,0.518,0.809,0.0,0.275,-6.362,0.566,146.216,0.261,62,hiphop
+spotify:track:7lL3MvFWFFSD25pBz72Agj,J. Cole,2014 Forest Hills Drive,A Tale of 2 Citiez,['J. Cole'],5,269786,True,6,1,4,0.553,0.559,0.556,0.0,0.251,-7.844,0.531,189.861,0.362,68,hiphop
+spotify:track:4Tjh34RS4ACZ6f6srlDBg8,J. Cole,2014 Forest Hills Drive,Fire Squad,['J. Cole'],6,288200,True,11,1,4,0.279,0.516,0.738,0.0,0.621,-7.21,0.415,175.432,0.595,65,hiphop
+spotify:track:4qRjfovbhI4EwP7VQNfxVW,J. Cole,2014 Forest Hills Drive,St. Tropez,['J. Cole'],7,257920,True,9,0,4,0.054,0.561,0.541,0.0371,0.0627,-9.818,0.0711,84.241,0.324,59,hiphop
+spotify:track:16qYlQ6koFxYVbiJbGHblz,J. Cole,2014 Forest Hills Drive,G.O.M.D.,['J. Cole'],8,301133,True,4,0,4,0.331,0.889,0.393,8.67e-06,0.283,-10.821,0.267,128.065,0.304,73,hiphop
+spotify:track:62vpWI1CHwFy7tMIcSStl8,J. Cole,2014 Forest Hills Drive,No Role Modelz,['J. Cole'],9,292986,True,10,0,4,0.302,0.696,0.521,0.0,0.0565,-8.465,0.332,100.0,0.458,81,hiphop
+spotify:track:30Chv2SmIry70YwtmtaKnj,J. Cole,2014 Forest Hills Drive,Hello,['J. Cole'],10,219173,True,9,0,4,0.0774,0.631,0.7,1.19e-05,0.106,-8.565,0.212,159.973,0.329,59,hiphop
+spotify:track:1HNs07uZxZniPNmniw2GTa,J. Cole,2014 Forest Hills Drive,Apparently,['J. Cole'],11,293040,True,5,1,4,0.564,0.801,0.543,0.0,0.116,-9.236,0.091,133.982,0.534,68,hiphop
+spotify:track:4gkl7QbQvBd3TM9PhlWFkI,J. Cole,2014 Forest Hills Drive,Love Yourz,['J. Cole'],12,211680,True,8,1,1,0.609,0.502,0.623,0.0,0.119,-8.812,0.441,75.555,0.399,69,hiphop
+spotify:track:01VGA34ATxwp0Xo1ldduo2,J. Cole,2014 Forest Hills Drive,Note to Self,['J. Cole'],13,875306,True,8,1,4,0.855,0.652,0.455,0.0,0.171,-8.673,0.115,83.151,0.325,55,hiphop
+spotify:track:6cvmUK21hD3GuKsSzrEe8B,J. Cole,The Blow Up,I Really Mean It - Freestyle,['J. Cole'],1,177024,True,7,1,4,0.037,0.52,0.937,0.0,0.348,-4.14,0.39,81.994,0.707,32,hiphop
+spotify:track:5uwT58QBSoxYp56gcndyHL,J. Cole,The Blow Up,Knock on Wood - Freestyle,['J. Cole'],2,133642,True,10,0,4,0.0678,0.751,0.663,0.0,0.116,-12.49,0.183,104.812,0.688,34,hiphop
+spotify:track:0rLNG4m2VQCONxX2hd5cW4,J. Cole,The Blow Up,Shook Ones - Freestyle,['J. Cole'],3,107075,True,1,1,4,0.256,0.773,0.907,6.64e-05,0.118,-5.069,0.281,96.237,0.661,37,hiphop
+spotify:track:4fB7KVITypXsvTxaeQKHxt,J. Cole,The Blow Up,Premeditated Murder,['J. Cole'],4,235206,True,0,1,4,0.0527,0.606,0.914,0.0,0.252,-4.837,0.175,82.826,0.448,34,hiphop
+spotify:track:7zTZ7D5NSfY5YMMC9blIGX,J. Cole,The Blow Up,The Last Stretch,['J. Cole'],5,211565,True,10,0,4,0.284,0.669,0.818,0.0,0.377,-8.021,0.453,83.185,0.538,29,hiphop
+spotify:track:1WogLCQFbgPM08p6kyeW7v,J. Cole,The Blow Up,In the Morning,['J. Cole'],6,224653,True,8,0,4,0.738,0.428,0.766,5.11e-06,0.185,-6.845,0.555,76.969,0.586,36,hiphop
+spotify:track:0QrtYeqkRsf6Pb5hRXYfVi,J. Cole,The Blow Up,Sky Boy,['J. Cole'],7,163422,True,7,1,4,0.111,0.384,0.928,0.0,0.459,-10.478,0.647,162.907,0.616,26,hiphop
+spotify:track:0ppeNNZVDaBTZx1Cxo5i0I,J. Cole,The Blow Up,Serenade,['J. Cole'],8,128653,True,3,1,4,0.0311,0.686,0.829,0.0,0.153,-7.327,0.062,91.014,0.342,29,hiphop
+spotify:track:1B8DBwB73rQ58AdIRjJXDj,J. Cole,The Blow Up,Unabomber,['J. Cole'],9,192522,True,11,0,4,0.0378,0.717,0.777,2.38e-06,0.0735,-7.818,0.133,160.037,0.39,31,hiphop
+spotify:track:1SDxrYOlJcjDlGhVgG8Wj5,J. Cole,The Blow Up,Higher,['J. Cole'],10,226272,True,1,1,4,0.274,0.824,0.664,0.0,0.577,-7.642,0.301,88.022,0.664,37,hiphop
+spotify:track:68Nw2xK5jKm3u9Szf4XB1Y,J. Cole,The Blow Up,We On,['J. Cole'],11,235154,True,5,0,4,0.283,0.539,0.824,0.0,0.139,-5.978,0.0906,160.087,0.24,28,hiphop
+spotify:track:6ccfrQmco4PbFw5e9jFZjI,J. Cole,Born Sinner,Villuminati,['J. Cole'],1,307866,True,11,0,4,0.0493,0.657,0.836,0.00366,0.367,-6.075,0.196,107.352,0.049,0,hiphop
+spotify:track:5Z0QFA0MNpTEXDTm1JQGFA,J. Cole,Born Sinner,Kerney Sermon,['J. Cole'],2,46066,True,0,0,4,0.643,0.646,0.608,0.0,0.353,-10.688,0.751,161.246,0.966,0,hiphop
+spotify:track:6f4zhNCHd5nZYyrSoweJgQ,J. Cole,Born Sinner,Land of the Snakes,['J. Cole'],3,254453,True,2,1,4,0.23,0.772,0.729,0.0,0.257,-7.808,0.292,104.031,0.475,0,hiphop
+spotify:track:7zOVeq49C7gqxt71VZdCwW,J. Cole,Born Sinner,Power Trip,"['J. Cole', 'Miguel']",4,241160,True,1,1,4,0.322,0.667,0.61,0.000203,0.426,-7.054,0.217,99.991,0.465,0,hiphop
+spotify:track:5ICIWsIK8ulJgKvy0l0lVf,J. Cole,Born Sinner,Mo Money,['J. Cole'],5,77640,True,1,0,4,0.756,0.617,0.719,0.0,0.149,-7.635,0.387,84.831,0.477,0,hiphop
+spotify:track:2XgBzWsS8cvW5ghjSpccsO,J. Cole,Born Sinner,Trouble,['J. Cole'],6,258399,True,11,0,4,0.174,0.74,0.474,8.31e-06,0.153,-8.708,0.0622,107.454,0.0818,0,hiphop
+spotify:track:6VJZQn8TpEBrWfBssoGXJC,J. Cole,Born Sinner,Runaway,['J. Cole'],7,314493,True,2,1,4,0.195,0.475,0.757,0.0,0.37,-7.307,0.357,187.929,0.0707,0,hiphop
+spotify:track:4QEqNY61dZ7skP0UsILYOE,J. Cole,Born Sinner,She Knows,"['J. Cole', 'Amber Coffman', 'Cults']",8,296520,True,1,1,4,0.0192,0.766,0.739,0.0794,0.229,-10.364,0.0805,118.005,0.185,0,hiphop
+spotify:track:7qI35x8ORUuPvUGQOq3K73,J. Cole,Born Sinner,Rich Niggaz,['J. Cole'],9,276093,True,8,0,4,0.472,0.586,0.717,0.00236,0.104,-8.543,0.197,125.007,0.306,0,hiphop
+spotify:track:6hPFsyIi5BMlRdsVmxLSzN,J. Cole,Born Sinner,Where's Jermaine?,['J. Cole'],10,36666,True,6,1,3,0.893,0.423,0.241,0.0,0.338,-12.823,0.0646,140.399,0.787,0,hiphop
+spotify:track:2CysnHkoqgIH2E0KgW54A5,J. Cole,Born Sinner,Forbidden Fruit,"['J. Cole', 'Kendrick Lamar']",11,268666,True,1,1,4,0.548,0.838,0.505,0.00127,0.211,-9.354,0.383,110.029,0.407,0,hiphop
+spotify:track:5BjpU9pWex1cfEiHKGKsry,J. Cole,Born Sinner,Chaining Day,['J. Cole'],12,284506,True,0,1,4,0.279,0.625,0.642,1.22e-06,0.103,-7.291,0.168,84.544,0.333,0,hiphop
+spotify:track:4QYM5PBzetgYl30mjqil2m,J. Cole,Born Sinner,Ain't That Some Shit,['J. Cole'],13,147413,True,7,1,4,0.0814,0.703,0.852,0.0014,0.314,-5.932,0.196,76.471,0.961,0,hiphop
+spotify:track:6sTjX4kz3bsL5FFTTWpvL0,J. Cole,Born Sinner,Crooked Smile,"['J. Cole', 'TLC']",14,278573,True,7,1,4,0.433,0.607,0.784,0.0,0.689,-6.293,0.268,81.004,0.482,0,hiphop
+spotify:track:5BSBe6zjBakFJj3nYw2HRm,J. Cole,Born Sinner,Let Nas Down,['J. Cole'],15,277200,True,9,0,4,0.0256,0.458,0.74,0.0,0.296,-5.65,0.245,79.255,0.37,0,hiphop
+spotify:track:4a8lP0UjqIlwTiyingvYm0,J. Cole,Born Sinner,Born Sinner,"['J. Cole', 'James Fauntleroy']",16,209360,True,5,0,4,0.301,0.556,0.908,0.0,0.129,-4.759,0.245,158.151,0.715,0,hiphop
+spotify:track:4Tqro5z3Uj9cDOWKOPaqMD,J. Cole,Cole World: The Sideline Story,Intro,['J. Cole'],1,82613,True,8,0,4,0.864,0.49,0.303,0.000383,0.105,-14.768,0.422,62.818,0.0569,43,hiphop
+spotify:track:1Yl4UBgyoHPgyne7rEsFZp,J. Cole,Cole World: The Sideline Story,Dollar And A Dream III,['J. Cole'],2,283066,True,3,0,4,0.516,0.42,0.726,0.0,0.0907,-7.113,0.415,76.585,0.316,50,hiphop
+spotify:track:3mTpegrOwRn0oJjv4TSbEE,J. Cole,Cole World: The Sideline Story,Can't Get Enough,"['J. Cole', 'Trey Songz']",3,225960,False,2,1,4,0.139,0.768,0.62,0.0,0.521,-7.399,0.0658,132.035,0.589,65,hiphop
+spotify:track:6sZv0ECT8cEW3oZtoCuVg4,J. Cole,Cole World: The Sideline Story,Lights Please,['J. Cole'],4,208160,True,7,1,4,0.0293,0.813,0.563,0.0,0.125,-7.083,0.269,83.009,0.761,61,hiphop
+spotify:track:2NJu5JtZLPmmuZF7Lr4Arr,J. Cole,Cole World: The Sideline Story,Interlude,['J. Cole'],5,99680,True,5,0,3,0.936,0.521,0.285,0.000168,0.115,-14.619,0.105,64.825,0.157,44,hiphop
+spotify:track:5pIn0ZiclQOMzoFUlgDY0f,J. Cole,Cole World: The Sideline Story,Sideline Story,['J. Cole'],6,237853,True,10,0,4,0.705,0.745,0.572,0.0,0.146,-7.003,0.174,89.051,0.663,53,hiphop
+spotify:track:4OSRNTDInE9bDHBBJ77tMw,J. Cole,Cole World: The Sideline Story,Mr. Nice Watch,"['J. Cole', 'JAY-Z']",7,237946,True,10,0,4,0.0929,0.556,0.574,0.000219,0.113,-8.555,0.0951,138.954,0.29,49,hiphop
+spotify:track:5vSqkO8k4lrXPj2xlYL4br,J. Cole,Cole World: The Sideline Story,Cole World,['J. Cole'],8,184586,True,5,0,4,0.00137,0.695,0.768,0.0,0.0964,-8.819,0.136,156.974,0.499,57,hiphop
+spotify:track:4OkiWfrZKmmVoILXk8JEtl,J. Cole,Cole World: The Sideline Story,In The Morning,"['J. Cole', 'Drake']",9,234386,False,3,0,4,0.764,0.44,0.671,0.0,0.212,-10.598,0.477,83.078,0.479,64,hiphop
+spotify:track:3l6lmZCaZdnc90MI2BktqP,J. Cole,Cole World: The Sideline Story,Lost Ones,['J. Cole'],10,263720,True,5,1,4,0.103,0.727,0.781,0.0,0.0537,-8.614,0.29,81.076,0.682,60,hiphop
+spotify:track:6Nw1WHydftZy2joT2nTiCR,J. Cole,Cole World: The Sideline Story,Nobody's Perfect,"['J. Cole', 'Missy Elliott']",11,190653,True,8,0,4,0.0974,0.793,0.498,1.26e-05,0.13,-11.208,0.17,119.988,0.427,63,hiphop
+spotify:track:2lSyPI9VHK06g1yxbtwMXq,J. Cole,Cole World: The Sideline Story,Never Told,['J. Cole'],12,211520,True,11,0,3,0.396,0.326,0.65,0.0,0.119,-9.574,0.199,84.461,0.438,48,hiphop
+spotify:track:1CivPhVrRCMZixFOQe3NKx,J. Cole,Cole World: The Sideline Story,Rise and Shine,['J. Cole'],13,274960,True,9,1,4,0.0551,0.425,0.768,0.0,0.19,-5.969,0.272,81.337,0.274,52,hiphop
+spotify:track:2a3QH6bZDNpeC2YUMH5A2K,J. Cole,Cole World: The Sideline Story,God's Gift,['J. Cole'],14,212800,True,1,0,4,0.0311,0.332,0.791,0.000264,0.104,-4.489,0.22,79.65,0.439,49,hiphop
+spotify:track:2aMHA0kCzCKDiRTNEe4NJc,J. Cole,Cole World: The Sideline Story,Breakdown,['J. Cole'],15,285306,True,1,1,3,0.0207,0.455,0.647,0.0556,0.098,-7.27,0.203,99.505,0.489,49,hiphop
+spotify:track:2wAJTrFhCnQyNSD3oUgTZO,J. Cole,Cole World: The Sideline Story,Work Out,['J. Cole'],16,235320,True,2,1,4,0.0531,0.831,0.427,0.0,0.307,-6.903,0.106,93.004,0.216,77,hiphop
+spotify:track:0tm4A93BbArNomNV1ucmJi,J. Cole,The Come Up,Intro,['J. Cole'],1,54200,False,3,0,4,0.78,0.614,0.482,0.0,0.152,-12.859,0.167,94.024,0.839,24,hiphop
+spotify:track:0aVfOb4l3toLypWSTukASc,J. Cole,The Come Up,Simba,['J. Cole'],2,156106,False,7,1,5,0.498,0.664,0.675,0.0,0.334,-12.862,0.728,109.745,0.867,31,hiphop
+spotify:track:4NPPrRFKXbRSxGoUJu9tN2,J. Cole,The Come Up,I'm The Man,['J. Cole'],3,178733,False,8,0,4,0.178,0.757,0.705,0.0,0.365,-11.15,0.325,99.732,0.63,31,hiphop
+spotify:track:2QSFayXKhKO6Gqop3ol7u2,J. Cole,The Come Up,School Daze,['J. Cole'],4,232266,False,7,1,4,0.119,0.372,0.721,0.0,0.367,-11.804,0.386,167.883,0.636,28,hiphop
+spotify:track:1QRareuHnYnzfJYTNEw10x,J. Cole,The Come Up,Dollar & A Dream,['J. Cole'],5,276920,False,0,1,4,0.015,0.584,0.62,0.0,0.364,-11.375,0.351,83.378,0.51,29,hiphop
+spotify:track:0XvpEG40LcJVhaUazZ7qWu,J. Cole,The Come Up,Throw It Up,['J. Cole'],6,218853,False,6,1,4,0.332,0.454,0.628,0.0,0.0322,-14.221,0.393,95.784,0.785,27,hiphop
+spotify:track:2dfzQAzxPvOeVMgSqmVQxf,J. Cole,The Come Up,Quote Me,['J. Cole'],7,144920,False,1,1,4,0.0479,0.519,0.779,0.0,0.382,-12.485,0.295,104.011,0.831,24,hiphop
+spotify:track:777E75k07EmpEWXUiJBgph,J. Cole,The Come Up,Split You Up,['J. Cole'],8,192360,False,7,0,4,0.157,0.579,0.567,0.0,0.0731,-11.562,0.324,82.144,0.598,29,hiphop
+spotify:track:4La2dmMCY8EuLJtiHLGovH,J. Cole,The Come Up,Plain,['J. Cole'],9,90693,False,1,1,3,0.983,0.696,0.0532,0.0,0.701,-20.754,0.752,135.975,0.575,22,hiphop
+spotify:track:1RDfoUKLf4JE2SAyngMn9n,J. Cole,The Come Up,The Come Up,['J. Cole'],10,131306,False,0,1,3,0.361,0.518,0.68,0.0,0.73,-12.09,0.429,62.919,0.63,25,hiphop
+spotify:track:3LLdZs19mDkmvX7s1iTFj5,J. Cole,The Come Up,Mighty Crazy,['J. Cole'],11,82146,False,10,0,4,0.274,0.57,0.808,0.0,0.115,-12.525,0.48,93.237,0.515,25,hiphop
+spotify:track:4sLFhYeZOLJ3G7XmVilAtr,J. Cole,The Come Up,Dead Presidents,['J. Cole'],12,189293,False,0,0,4,0.284,0.68,0.671,0.0,0.274,-10.647,0.259,87.024,0.608,36,hiphop
+spotify:track:1FTT5rBVSR69Bi1nbkYOH3,J. Cole,The Come Up,Homecoming,['J. Cole'],13,115973,False,8,1,4,0.547,0.559,0.49,0.0,0.32,-11.899,0.165,86.076,0.756,25,hiphop
+spotify:track:3Tfo3wrVM1hPJobHWiLMKS,J. Cole,The Come Up,Carolina On My Mind,['J. Cole'],14,221320,False,11,0,4,0.288,0.35,0.529,0.0,0.16,-12.241,0.191,164.792,0.541,27,hiphop
+spotify:track:7jKNXf01cKMs9ChaTVArwQ,J. Cole,The Come Up,Can't Cry,['J. Cole'],15,255573,False,5,0,4,0.156,0.481,0.601,0.0,0.28,-11.598,0.392,73.447,0.37,32,hiphop
+spotify:track:61Z5RMvhwCzoZfvAzMmATn,J. Cole,The Come Up,Goin Off,['J. Cole'],16,169040,False,11,0,4,0.324,0.755,0.553,0.0,0.169,-10.947,0.324,91.014,0.206,24,hiphop
+spotify:track:2fO5nU9GmjFEsKtYoSg2zB,J. Cole,The Come Up,Get It,['J. Cole'],17,217160,False,9,0,4,0.232,0.646,0.634,0.0,0.189,-13.06,0.359,82.534,0.505,25,hiphop
+spotify:track:4Ou7OfkFRlR4HJ6NCG0mpL,J. Cole,The Come Up,I Do My Thing,['J. Cole'],18,162320,False,4,0,3,0.582,0.583,0.466,0.0,0.2,-13.989,0.439,70.03,0.712,27,hiphop
+spotify:track:1qyFlfPREPbRcS2BNszdYI,Drake,Care Package,Dreams Money Can Buy,['Drake'],1,253803,True,6,1,4,0.765,0.423,0.587,0.0,0.114,-6.635,0.529,180.331,0.33,59,hiphop
+spotify:track:0Tacxc5lDJ8LwiO1pWNSl8,Drake,Care Package,The Motion,['Drake'],2,240956,True,4,0,4,0.371,0.631,0.788,0.000317,0.108,-7.142,0.102,157.769,0.544,64,hiphop
+spotify:track:4n4BflhWjCHIxrI4v7Xt9s,Drake,Care Package,How Bout Now,['Drake'],3,235566,True,1,1,4,0.205,0.789,0.404,0.0,0.219,-8.364,0.23,122.062,0.472,65,hiphop
+spotify:track:4Wjhj0WjkyECccfHVIgaTq,Drake,Care Package,Trust Issues,['Drake'],4,281518,True,11,0,3,0.779,0.421,0.539,0.0,0.111,-5.456,0.274,89.177,0.523,66,hiphop
+spotify:track:4czcw3NVLY0of5hTD7OufN,Drake,Care Package,Days in The East,['Drake'],5,353697,True,1,1,4,0.348,0.733,0.361,0.000285,0.0942,-11.129,0.135,94.902,0.0361,57,hiphop
+spotify:track:3W3FVHEDetkiRkkGKDmdir,Drake,Care Package,Draft Day,['Drake'],6,266325,True,8,1,4,0.0322,0.673,0.81,0.0,0.133,-3.793,0.36,166.084,0.564,55,hiphop
+spotify:track:6C9SwoZ5OrxcvkntgA5t8s,Drake,Care Package,4pm in Calabasas,['Drake'],7,240217,True,4,0,4,0.115,0.743,0.66,0.0,0.101,-4.802,0.418,192.031,0.549,59,hiphop
+spotify:track:0FnxK9FEAQyPJ284QcieNb,Drake,Care Package,5 Am in Toronto,['Drake'],8,205264,True,11,0,4,0.0678,0.555,0.88,0.0,0.0723,-4.325,0.265,87.195,0.391,59,hiphop
+spotify:track:3sMC6vfTTSa0mMAPTwzDVD,Drake,Care Package,I Get Lonely,['Drake'],9,253561,False,11,0,4,0.706,0.477,0.501,5.61e-06,0.0953,-9.178,0.0398,81.376,0.689,56,hiphop
+spotify:track:4alHkxxwAhvoGg3dJCATKV,Drake,Care Package,My Side,['Drake'],10,294650,True,6,0,4,0.603,0.549,0.495,7.26e-06,0.0979,-5.661,0.133,81.012,0.385,53,hiphop
+spotify:track:2xUHiyGeGrWmmfv7NbDTWC,Drake,Care Package,Jodeci Freestyle,"['Drake', 'J. Cole']",11,254022,True,2,1,4,0.0111,0.498,0.844,0.0,0.102,-2.834,0.268,88.435,0.282,54,hiphop
+spotify:track:6MR5IBSNfDmiwnrlQpVw4w,Drake,Care Package,Club Paradise,['Drake'],12,283816,True,6,0,4,0.758,0.338,0.729,3.24e-05,0.18,-6.419,0.102,184.174,0.543,56,hiphop
+spotify:track:18t8ypY0HYaQuGBxg2KdT2,Drake,Care Package,Free Spirit,"['Drake', 'Rick Ross']",13,252884,True,1,1,3,0.281,0.508,0.748,0.0,0.168,-4.997,0.33,100.414,0.225,53,hiphop
+spotify:track:27Tqjd2nMW2mIp6Yk1ovwY,Drake,Care Package,Heat Of The Moment,['Drake'],14,343455,True,5,0,4,0.179,0.641,0.454,0.000116,0.065,-8.344,0.133,78.036,0.302,51,hiphop
+spotify:track:56NDFbD0tCUawnqeU2wcvv,Drake,Care Package,Girls Love Beyoncé,"['Drake', 'James Fauntleroy']",15,225011,True,11,0,4,0.782,0.619,0.489,0.0,0.106,-11.25,0.46,126.046,0.328,60,hiphop
+spotify:track:73IE87H0g2MBmdn41lkVto,Drake,Care Package,Paris Morton Music,['Drake'],16,251239,True,10,0,4,0.414,0.505,0.494,7.98e-05,0.105,-8.635,0.315,171.978,0.141,56,hiphop
+spotify:track:3e0ZGE7Gp034iLknjQk4QW,Drake,Care Package,Can I,['Drake'],17,189289,True,4,0,4,0.484,0.643,0.178,0.0108,0.122,-8.56,0.0588,85.042,0.0674,58,hiphop
+spotify:track:1v24T2ug4TlssYZvI3aL4O,Drake,So Far Gone,Lust For Life,['Drake'],1,176179,True,6,1,4,0.939,0.462,0.422,0.0327,0.108,-10.381,0.175,87.364,0.0853,57,hiphop
+spotify:track:3XLSlQLJf3Ut0zvMUxnF1h,Drake,So Far Gone,Houstatlantavegas,['Drake'],2,290791,True,1,0,4,0.393,0.683,0.695,0.00124,0.124,-6.798,0.0574,135.337,0.406,59,hiphop
+spotify:track:6NwhtCYkfwWlcR62Ac4E7y,Drake,So Far Gone,Successful,"['Drake', 'Trey Songz', 'Lil Wayne']",3,375050,True,8,1,4,0.536,0.562,0.544,0.0,0.17,-5.065,0.369,159.517,0.231,60,hiphop
+spotify:track:4FDSPGncHRpr6yB8DD4CtI,Drake,So Far Gone,Let’s Call It Off,"['Drake', 'Peter Bjorn and John']",4,234175,True,9,0,4,0.00427,0.79,0.731,0.29,0.157,-4.607,0.0327,127.403,0.938,51,hiphop
+spotify:track:0JaVdpmiex2EP7bBzyKVTa,Drake,So Far Gone,November 18th,['Drake'],5,188189,True,11,0,4,0.579,0.749,0.476,0.0,0.1,-11.147,0.507,71.937,0.534,61,hiphop
+spotify:track:2hcohLIysMxofYziluXCoX,Drake,So Far Gone,Ignant Shit,"['Drake', 'Lil Wayne']",6,302492,True,7,1,4,0.186,0.591,0.846,0.0,0.463,-3.687,0.276,94.795,0.121,58,hiphop
+spotify:track:3lkkkYc1wBj5l3FVlpqvP6,Drake,So Far Gone,A Night Off,"['Drake', 'Lloyd']",7,193962,True,11,0,4,0.374,0.611,0.508,3.87e-06,0.168,-5.573,0.0741,103.612,0.368,49,hiphop
+spotify:track:7mPoCVGP752A5DtHf1SKkM,Drake,So Far Gone,Say What's Real,['Drake'],8,230717,True,8,1,4,0.632,0.462,0.773,0.0,0.212,-5.375,0.288,86.157,0.455,50,hiphop
+spotify:track:524wvipGqxPKYWxkjf9y46,Drake,So Far Gone,Little Bit,"['Drake', 'Lykke Li']",9,230484,True,11,0,4,0.0999,0.758,0.888,0.0336,0.661,-4.899,0.0374,120.392,0.771,53,hiphop
+spotify:track:3QLjDkgLh9AOEHlhQtDuhs,Drake,So Far Gone,Best I Ever Had,['Drake'],10,257690,True,1,1,4,0.19,0.395,0.922,0.0,0.134,-2.176,0.375,162.361,0.558,64,hiphop
+spotify:track:2TWSilrWcTrgVKcP8kfEfg,Drake,So Far Gone,Unstoppable,"['Drake', 'Santigold', 'Lil Wayne']",11,209957,True,2,0,4,0.165,0.774,0.912,0.0,0.745,-2.787,0.347,150.083,0.821,49,hiphop
+spotify:track:0q7LGcVSpsIoSbjChtZ8lI,Drake,So Far Gone,Uptown,"['Drake', 'Bun B', 'Lil Wayne']",12,382262,True,1,1,5,0.00391,0.416,0.824,0.0,0.104,-3.075,0.343,85.433,0.417,60,hiphop
+spotify:track:43iKgGbmfqPLh3mxUlospI,Drake,So Far Gone,Sooner Than Later,['Drake'],13,262046,True,5,0,4,0.178,0.616,0.501,1.2e-05,0.105,-5.722,0.24,94.554,0.506,50,hiphop
+spotify:track:4i3GraNMzBKze1WsVl38DS,Drake,So Far Gone,Bria's Interlude,"['Drake', 'Omarion']",14,139574,True,2,0,3,0.209,0.49,0.507,0.00104,0.119,-6.205,0.0849,147.037,0.237,52,hiphop
+spotify:track:6MlGqWzDiLkZ0vmAEsisEk,Drake,So Far Gone,The Calm,['Drake'],15,243723,True,11,0,4,0.819,0.471,0.784,1.13e-05,0.107,-8.25,0.883,160.833,0.258,48,hiphop
+spotify:track:6hHKFReuQR9VQp39ev43wY,Drake,So Far Gone,Outro,"['Drake', 'Chilly Gonzales']",16,174398,True,5,1,4,0.988,0.397,0.0906,0.856,0.344,-21.655,0.054,185.167,0.136,45,hiphop
+spotify:track:4XTXamS1g4g93jPxyuFJJ6,Drake,So Far Gone,Brand New,['Drake'],17,213492,True,6,1,3,0.631,0.399,0.491,0.0,0.171,-8.992,0.0714,94.542,0.356,57,hiphop
+spotify:track:3SnXwQUrvSacFziUYXTNKY,Drake,So Far Gone,Congratulations,['Drake'],18,332529,True,6,1,5,0.0185,0.333,0.859,0.0,0.22,-2.286,0.148,86.882,0.125,56,hiphop
+spotify:track:2yg9UN4eo5eMVJ7OB4RWj3,Drake,Scorpion,Survival,['Drake'],1,136186,True,9,0,4,0.133,0.607,0.596,0.0,0.123,-9.09,0.358,77.324,0.149,61,hiphop
+spotify:track:0TlLq3lA83rQOYtrqBqSct,Drake,Scorpion,Nonstop,['Drake'],2,238614,True,7,1,4,0.0164,0.912,0.412,0.013,0.104,-8.074,0.124,154.983,0.422,80,hiphop
+spotify:track:3szf2z1Cy1QMrtHrbn8rz9,Drake,Scorpion,Elevate,['Drake'],3,184960,True,1,1,4,0.015,0.758,0.474,0.0,0.116,-8.72,0.146,76.062,0.0541,65,hiphop
+spotify:track:5Psnhdkyanjpgc2P8A5TSM,Drake,Scorpion,Emotionless,['Drake'],4,302173,True,1,1,4,0.0249,0.413,0.677,0.0,0.0793,-5.12,0.255,172.501,0.0845,67,hiphop
+spotify:track:6DCZcSspjsKoFjzjrWoCdn,Drake,Scorpion,God's Plan,['Drake'],5,198973,True,7,1,4,0.0332,0.754,0.449,8.29e-05,0.552,-9.211,0.109,77.169,0.357,84,hiphop
+spotify:track:3qN5qMTKyEEmiTZD38BNTT,Drake,Scorpion,I'm Upset,['Drake'],6,214466,True,11,0,4,0.279,0.899,0.586,0.0,0.0836,-7.866,0.344,150.001,0.492,72,hiphop
+spotify:track:0zqy3ss4CwD6u4QPksS0nI,Drake,Scorpion,8 Out Of 10,['Drake'],7,195720,True,2,1,4,0.161,0.529,0.69,0.0,0.498,-7.87,0.74,170.54,0.311,62,hiphop
+spotify:track:7rC5Pl8rQSX4myONQHYPBK,Drake,Scorpion,Mob Ties,['Drake'],8,205146,True,4,0,4,0.0456,0.755,0.575,0.00124,0.276,-8.393,0.0678,85.987,0.49,73,hiphop
+spotify:track:1dUHF4RyMmMTveJ0Rby6Xm,Drake,Scorpion,Can’t Take A Joke,['Drake'],9,163974,True,10,0,4,0.128,0.761,0.598,0.0,0.0839,-7.249,0.182,173.897,0.447,68,hiphop
+spotify:track:6cblRiEGDRNZgowcm951R3,Drake,Scorpion,Sandra’s Rose,['Drake'],10,216333,True,1,1,4,0.0481,0.487,0.849,0.0,0.143,-5.432,0.246,152.093,0.52,63,hiphop
+spotify:track:4ksuI04WMvUnJbHQjgs3L5,Drake,Scorpion,Talk Up,"['Drake', 'JAY-Z']",11,223240,True,11,1,4,0.00359,0.758,0.49,6.61e-06,0.292,-9.877,0.139,140.116,0.335,61,hiphop
+spotify:track:1Tnw0ItH1Macok8gblnPPd,Drake,Scorpion,Is There More,['Drake'],12,226906,True,1,1,4,0.727,0.698,0.547,0.0,0.159,-7.607,0.315,83.801,0.548,60,hiphop
+spotify:track:11L064movtyopGdLiX4sVg,Drake,Scorpion,Peak,['Drake'],1,206026,True,9,0,4,0.85,0.686,0.215,0.000123,0.106,-13.54,0.0387,91.998,0.273,61,hiphop
+spotify:track:4HG1YiGBseVKzjyKcmAJen,Drake,Scorpion,Summer Games,['Drake'],2,247893,False,1,1,4,0.477,0.775,0.482,0.0456,0.11,-11.269,0.0357,136.016,0.134,62,hiphop
+spotify:track:4c2xt1trwYZpMqPWY35Xi9,Drake,Scorpion,Jaded,['Drake'],3,262453,True,0,1,4,0.037,0.766,0.271,0.0,0.175,-5.697,0.0412,116.02,0.0371,67,hiphop
+spotify:track:3CA9pLiwRIGtUBiMjbZmRw,Drake,Scorpion,Nice For What,['Drake'],4,210746,True,8,1,4,0.0891,0.586,0.909,0.000109,0.119,-6.474,0.0705,93.394,0.757,79,hiphop
+spotify:track:2WP8G2pdddDmnh1xbfKBOI,Drake,Scorpion,Finesse,['Drake'],5,182080,False,0,0,4,0.133,0.807,0.32,0.000328,0.101,-8.152,0.0582,94.99,0.298,71,hiphop
+spotify:track:4SUwJA3eUVNHExxMPEUhQe,Drake,Scorpion,Ratchet Happy Birthday,['Drake'],6,207306,True,2,1,4,0.106,0.657,0.571,0.00121,0.0735,-12.519,0.14,167.961,0.626,58,hiphop
+spotify:track:41a7dZcq30Ss5kPMayWRV0,Drake,Scorpion,That’s How You Feel,['Drake'],7,157605,True,10,0,4,0.117,0.85,0.473,0.0105,0.108,-5.747,0.209,85.454,0.38,64,hiphop
+spotify:track:4n1bdaKwynQndm47x5HqWX,Drake,Scorpion,Blue Tint,['Drake'],8,162800,True,7,0,4,0.013,0.888,0.372,0.0,0.184,-10.254,0.358,133.998,0.123,64,hiphop
+spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ,Drake,Scorpion,In My Feelings,['Drake'],9,217925,True,1,1,4,0.0589,0.835,0.626,6e-05,0.396,-5.833,0.125,91.03,0.35,81,hiphop
+spotify:track:6G8kHiVZ1jW7vHMPVRNZU0,Drake,Scorpion,Don’t Matter To Me,"['Drake', 'Michael Jackson']",10,245786,False,10,1,4,0.493,0.826,0.318,0.0131,0.11,-12.391,0.0574,103.002,0.138,73,hiphop
+spotify:track:3mvYQKm8h6M5K5h0nVPY9S,Drake,Scorpion,After Dark,"['Drake', 'Static Major', 'Ty Dolla $ign']",11,289560,True,2,1,4,0.0414,0.686,0.428,0.0,0.138,-13.072,0.192,141.95,0.329,62,hiphop
+spotify:track:44Du2IM1bGY7dicmLfXbUs,Drake,Scorpion,Final Fantasy,['Drake'],12,219960,True,0,1,1,0.422,0.5,0.448,8.03e-06,0.115,-10.977,0.442,144.204,0.104,60,hiphop
+spotify:track:09lmraDvzBT3pUQ2rUtJzK,Drake,Scorpion,March 14,['Drake'],13,309560,True,10,0,4,0.406,0.558,0.415,0.0,0.36,-7.355,0.358,127.096,0.317,57,hiphop
+spotify:track:05KOgYg8PGeJyyWBPi5ja8,Drake,More Life,Free Smoke,['Drake'],1,218673,True,10,0,4,0.0681,0.736,0.491,0.0,0.571,-6.892,0.439,141.979,0.203,63,hiphop
+spotify:track:6CfrYuD3YRDYdYvH9jNtXY,Drake,More Life,No Long Talk,"['Drake', 'Giggs']",2,149568,True,10,0,4,0.0671,0.913,0.608,0.0,0.533,-6.839,0.234,97.063,0.578,60,hiphop
+spotify:track:5mCPDVBb16L4XQwDdbRUpz,Drake,More Life,Passionfruit,['Drake'],3,298940,True,11,1,4,0.256,0.809,0.463,0.085,0.109,-11.377,0.0396,111.98,0.364,79,hiphop
+spotify:track:13e6f8t7RKXuxZ0JdaaJRG,Drake,More Life,Jorja Interlude,['Drake'],4,107673,True,11,1,4,0.762,0.735,0.373,0.00202,0.288,-10.478,0.104,123.081,0.237,60,hiphop
+spotify:track:7y6c07pgjZvtHI9kuMVqk1,Drake,More Life,Get It Together,"['Drake', 'Black Coffee', 'Jorja Smith']",5,250337,True,5,0,4,0.0945,0.781,0.721,0.391,0.104,-9.133,0.0514,123.011,0.849,68,hiphop
+spotify:track:76gUmNLXGQVOsGhfcshkFP,Drake,More Life,Madiba Riddim,['Drake'],6,205162,False,7,1,4,0.245,0.839,0.521,0.00545,0.607,-10.45,0.166,105.992,0.33,62,hiphop
+spotify:track:2XlHu0HcujBCkWMdIAvrqt,Drake,More Life,Blem,['Drake'],7,216557,False,7,0,4,0.0533,0.726,0.535,1.38e-05,0.0984,-7.804,0.0476,98.067,0.375,64,hiphop
+spotify:track:2fkeWbM6iqTw7oGHTYm2lw,Drake,More Life,4422,"['Drake', 'Sampha']",8,186293,False,11,0,4,0.558,0.61,0.229,0.0413,0.113,-12.36,0.0333,111.887,0.19,62,hiphop
+spotify:track:6UjfByV1lDLW0SOVQA4NAi,Drake,More Life,Gyalchester,['Drake'],9,189229,True,1,1,4,0.0317,0.877,0.391,0.000502,0.0945,-8.196,0.063,131.018,0.122,69,hiphop
+spotify:track:2dfqS3MRtbLZSZA1IL8xY5,Drake,More Life,Skepta Interlude,['Drake'],10,143213,True,7,1,5,0.0103,0.745,0.822,4.2e-06,0.155,-6.354,0.252,86.733,0.415,58,hiphop
+spotify:track:2bjwRfXMk4uRgOD9IBYl9h,Drake,More Life,Portland,"['Drake', 'Quavo', 'Travis Scott']",11,236614,True,1,1,4,0.0172,0.925,0.443,0.0,0.276,-8.216,0.264,136.078,0.35,72,hiphop
+spotify:track:0xl1w2q4VLojeXp4JfazPL,Drake,More Life,Sacrifices,"['Drake', '2 Chainz', 'Young Thug']",12,307593,True,8,1,4,0.0407,0.903,0.439,0.0,0.138,-11.813,0.397,139.112,0.532,62,hiphop
+spotify:track:6MbH1QiphMCPTqVEVC7UYi,Drake,More Life,Nothings Into Somethings,['Drake'],13,153724,False,11,0,4,0.332,0.766,0.234,0.00156,0.358,-7.544,0.159,96.882,0.256,58,hiphop
+spotify:track:6n3HGiq4v35D6eFOSwqYuo,Drake,More Life,Teenage Fever,['Drake'],14,219692,True,8,0,4,0.111,0.766,0.283,0.0172,0.115,-10.33,0.0846,97.04,0.144,73,hiphop
+spotify:track:2jTujnt0y344ai1rNOywgr,Drake,More Life,KMT,"['Drake', 'Giggs']",15,162637,True,1,1,4,0.0189,0.875,0.6,0.0143,0.132,-6.818,0.0435,119.987,0.0906,62,hiphop
+spotify:track:2Na0z2gfN67Rzf0vp74Wi3,Drake,More Life,Lose You,['Drake'],16,305373,True,4,1,4,0.699,0.526,0.583,0.0,0.372,-9.172,0.376,89.835,0.378,57,hiphop
+spotify:track:5f5r2N4Lp9WoULWPH9zp2W,Drake,More Life,Can't Have Everything,['Drake'],17,228437,True,1,1,4,0.0136,0.856,0.572,1.55e-06,0.121,-8.429,0.373,82.445,0.454,59,hiphop
+spotify:track:28irpKCCK9nn9DZSik2zEx,Drake,More Life,Glow,"['Drake', 'Kanye West']",18,206119,True,9,0,4,0.2,0.688,0.384,0.0,0.708,-8.824,0.375,162.097,0.432,56,hiphop
+spotify:track:5JUu0unA8VwhTZ9LkMWUVI,Drake,More Life,Since Way Back,"['Drake', 'PARTYNEXTDOOR']",19,368035,False,0,1,4,0.348,0.468,0.266,9.55e-06,0.209,-11.121,0.13,153.292,0.222,57,hiphop
+spotify:track:343YBumqHu19cGoGARUTsd,Drake,More Life,Fake Love,['Drake'],20,210937,True,9,0,4,0.105,0.928,0.481,0.0,0.176,-9.35,0.287,134.007,0.613,74,hiphop
+spotify:track:7bJ4mu7MHa3rHiNyKjOoSl,Drake,More Life,Ice Melts,"['Drake', 'Young Thug']",21,250770,True,6,0,4,0.08,0.813,0.551,0.0,0.386,-7.605,0.353,124.957,0.598,60,hiphop
+spotify:track:2KvHC9z14GSl4YpkNMX384,Drake,More Life,Do Not Disturb,['Drake'],22,283550,True,7,0,4,0.246,0.618,0.693,0.0,0.112,-5.943,0.45,170.982,0.454,70,hiphop
+spotify:track:0AAyo5bMIVgVxv9DF6XV2B,Drake,Views,Keep The Family Close,['Drake'],1,328906,True,9,0,4,0.148,0.395,0.567,0.0,0.381,-7.687,0.0529,133.403,0.186,43,hiphop
+spotify:track:4uCAKqQQYJaIvyzq4sZkaO,Drake,Views,9,['Drake'],2,255786,True,10,1,4,0.000803,0.689,0.712,0.000601,0.237,-7.184,0.0451,100.004,0.0379,44,hiphop
+spotify:track:4MSjMv3kpbLEeyGfIh52qH,Drake,Views,U With Me?,['Drake'],3,297373,True,2,1,4,0.337,0.429,0.43,1.18e-05,0.138,-11.373,0.165,174.984,0.125,44,hiphop
+spotify:track:12C1XYFQGZYXRYJNbsgDc7,Drake,Views,Feel No Ways,['Drake'],4,240653,True,7,1,4,0.0319,0.588,0.674,7.55e-06,0.122,-7.083,0.171,193.893,0.198,47,hiphop
+spotify:track:07GilNHSfS5oicUgHgU7VG,Drake,Views,Hype,['Drake'],5,209413,True,4,0,4,0.0255,0.787,0.635,0.0,0.356,-8.282,0.153,130.014,0.238,46,hiphop
+spotify:track:0P7HlSwSY8mJCWIk4yunb0,Drake,Views,Weston Road Flows,['Drake'],6,253533,True,1,1,4,0.0635,0.623,0.74,0.0,0.366,-6.945,0.307,82.874,0.351,42,hiphop
+spotify:track:6qGgrhiZ20Qrir3MNGUJq4,Drake,Views,Redemption,['Drake'],7,333946,True,0,1,4,0.612,0.694,0.314,2.04e-06,0.117,-7.82,0.117,119.906,0.338,46,hiphop
+spotify:track:5PMNu7kMZ4msbxiKnDTOt0,Drake,Views,With You,"['Drake', 'PARTYNEXTDOOR']",8,195053,True,1,1,4,0.136,0.878,0.406,0.000231,0.112,-9.961,0.249,128.015,0.785,46,hiphop
+spotify:track:4dWVEAVhqNUjvsBHUo477f,Drake,Views,Faithful,"['Drake', 'Pimp C', 'dvsn']",9,290133,True,1,1,4,0.112,0.537,0.449,1.51e-05,0.285,-10.494,0.102,100.007,0.169,41,hiphop
+spotify:track:4YJmZfvlheSziXem8HBWrj,Drake,Views,Still Here,['Drake'],10,189853,True,0,1,3,0.0267,0.833,0.431,0.0,0.633,-9.604,0.194,133.938,0.224,59,hiphop
+spotify:track:4CpKEkdGbOJV51cSvx7SoG,Drake,Views,Controlla,['Drake'],11,245226,True,10,0,4,0.0781,0.611,0.468,0.0,0.101,-11.084,0.179,92.092,0.349,60,hiphop
+spotify:track:12VWzyPDBCc8fqeWCAfNwR,Drake,Views,One Dance,"['Drake', 'WizKid', 'Kyla']",12,173986,False,1,1,4,0.00776,0.792,0.625,0.00188,0.329,-5.609,0.0536,103.967,0.37,66,hiphop
+spotify:track:2JfeUjJvP1lJkCSne9g0de,Drake,Views,Grammys,"['Drake', 'Future']",13,220426,True,1,1,4,0.00163,0.676,0.432,3.93e-06,0.0799,-9.51,0.502,145.869,0.12,45,hiphop
+spotify:track:0k9RIzZtAo4DTQu0ZM6lNZ,Drake,Views,Childs Play,['Drake'],14,241400,True,10,0,4,0.017,0.745,0.473,1.12e-05,0.197,-11.243,0.0955,80.006,0.296,51,hiphop
+spotify:track:334S9SWZMjyRDN0wrHw7wk,Drake,Views,Pop Style,['Drake'],15,212946,True,7,1,4,0.192,0.713,0.462,2.16e-06,0.105,-10.027,0.123,133.054,0.0595,49,hiphop
+spotify:track:7fJtPlEZKxu6gvkfBFc5tW,Drake,Views,Too Good,"['Drake', 'Rihanna']",16,263373,True,7,1,4,0.0484,0.793,0.653,4.91e-05,0.1,-7.839,0.103,117.993,0.393,58,hiphop
+spotify:track:04CpzA2BdOLEz7EMp5uwTU,Drake,Views,Summers Over Interlude,['Drake'],17,106333,True,4,0,3,0.405,0.698,0.255,0.00242,0.0985,-8.647,0.0303,132.036,0.243,39,hiphop
+spotify:track:4bEGp4AapA0B3Q5PpnSq3K,Drake,Views,Fire & Desire,['Drake'],18,238120,True,1,0,4,0.0671,0.722,0.252,0.0,0.0852,-14.411,0.0762,79.923,0.276,51,hiphop
+spotify:track:6oeCLDX1ML2tPOPT1JuyaJ,Drake,Views,Views,['Drake'],19,311960,True,0,1,4,0.0657,0.426,0.852,0.0,0.262,-5.896,0.318,78.855,0.11,41,hiphop
+spotify:track:1OAYKfE0YdrN7C1yLWaLJo,Drake,Views,Hotline Bling,['Drake'],20,267066,False,2,1,4,0.00261,0.891,0.625,0.000176,0.0504,-7.861,0.0558,134.967,0.548,51,hiphop
+spotify:track:0v0QJqLvo3tnqwYLdLqdza,Drake,What A Time To Be Alive,Digital Dash,"['Drake', 'Future']",1,231231,False,2,1,4,0.00378,0.881,0.566,6.83e-06,0.204,-7.562,0.136,140.04,0.232,31,hiphop
+spotify:track:3dnM2j3WBCn2biJgiuxhnB,Drake,What A Time To Be Alive,Big Rings,"['Drake', 'Future']",2,217706,False,8,0,4,0.00295,0.807,0.666,0.0,0.227,-6.188,0.263,131.994,0.274,41,hiphop
+spotify:track:5XdFLE07JRgMk5LLSjjmAT,Drake,What A Time To Be Alive,Live From The Gutter,"['Drake', 'Future']",3,211642,False,7,1,4,0.0429,0.828,0.482,7.8e-06,0.0807,-8.469,0.431,165.946,0.281,27,hiphop
+spotify:track:4HP4mKLUCZcoHlZAWvdhRN,Drake,What A Time To Be Alive,Diamonds Dancing,"['Drake', 'Future']",4,314631,False,1,1,4,0.12,0.504,0.356,6.03e-05,0.107,-10.84,0.0445,136.028,0.169,29,hiphop
+spotify:track:6DGV9o1qFcx18O6uRIeCBM,Drake,What A Time To Be Alive,Scholarships,"['Drake', 'Future']",5,209287,False,0,0,4,0.0828,0.556,0.406,4.29e-06,0.1,-9.409,0.381,109.035,0.256,29,hiphop
+spotify:track:3MTZYvIcZXwmc8tFrAr9bA,Drake,What A Time To Be Alive,Plastic Bag,"['Drake', 'Future']",6,202084,False,1,1,3,0.0079,0.844,0.47,2.82e-06,0.141,-6.048,0.3,170.91,0.395,26,hiphop
+spotify:track:67KJIWrUpIG3ONOpZpvVbR,Drake,What A Time To Be Alive,I'm The Plug,"['Drake', 'Future']",7,180000,False,0,1,4,0.000285,0.829,0.554,0.00225,0.12,-9.223,0.305,160.026,0.203,29,hiphop
+spotify:track:1CEPBDQk2rU9bIBwcsXkOM,Drake,What A Time To Be Alive,Change Locations,"['Drake', 'Future']",8,220862,False,0,1,4,0.0201,0.813,0.328,4.96e-06,0.119,-10.069,0.391,137.999,0.191,24,hiphop
+spotify:track:6ApJN7sbsgAKwO29JbSLiK,Drake,What A Time To Be Alive,Jumpman,"['Drake', 'Future']",9,205879,False,1,1,4,0.0529,0.859,0.56,0.0,0.114,-7.249,0.201,142.04,0.625,48,hiphop
+spotify:track:6Dw7JdhiiMjx2gWrwfeFYL,Drake,What A Time To Be Alive,Jersey,['Future'],10,188702,False,0,0,4,0.528,0.766,0.531,0.000665,0.11,-10.899,0.272,146.089,0.29,27,hiphop
+spotify:track:1svrFSGhPdKaFFinZSoltt,Drake,What A Time To Be Alive,30 for 30 Freestyle,['Drake'],11,253934,False,4,0,4,0.686,0.622,0.599,0.0,0.145,-9.207,0.458,92.833,0.275,23,hiphop
+spotify:track:1ID1QFSNNxi0hiZCNcwjUC,Drake,If You're Reading This It's Too Late,Legend,['Drake'],1,241853,True,1,1,4,0.0269,0.712,0.563,0.0,0.0776,-7.573,0.071,100.093,0.299,68,hiphop
+spotify:track:79XrkTOfV1AqySNjVlygpW,Drake,If You're Reading This It's Too Late,Energy,['Drake'],2,181933,True,11,1,4,0.38,0.748,0.571,0.0,0.534,-7.916,0.478,172.105,0.553,70,hiphop
+spotify:track:12d5QFwzh60IIHlsSnAvps,Drake,If You're Reading This It's Too Late,10 Bands,['Drake'],3,177733,True,11,0,4,0.262,0.825,0.757,1.72e-06,0.0762,-3.687,0.384,172.938,0.89,63,hiphop
+spotify:track:5InOp6q2vvx0fShv3bzFLZ,Drake,If You're Reading This It's Too Late,Know Yourself,['Drake'],4,275840,True,11,0,4,0.196,0.733,0.412,0.0,0.342,-8.687,0.225,114.413,0.179,67,hiphop
+spotify:track:2durxb17bXcmQJHSt8JAdO,Drake,If You're Reading This It's Too Late,No Tellin',['Drake'],5,310933,True,0,0,4,0.543,0.823,0.467,0.0,0.135,-10.394,0.301,95.024,0.618,61,hiphop
+spotify:track:4v7SAP4KD96BFLWiCd1vF0,Drake,If You're Reading This It's Too Late,Madonna,['Drake'],6,177840,True,2,1,4,0.0149,0.905,0.506,3.56e-05,0.371,-8.598,0.0588,110.017,0.122,57,hiphop
+spotify:track:3a8tAZFJxlmBwOtrf5L1oC,Drake,If You're Reading This It's Too Late,6 God,['Drake'],7,180666,True,2,1,4,0.0248,0.859,0.623,0.0,0.125,-8.596,0.106,105.45,0.482,62,hiphop
+spotify:track:2mmUoyPxzbxehpfm1TpTRK,Drake,If You're Reading This It's Too Late,Star67,['Drake'],8,294973,True,3,1,4,0.747,0.521,0.392,8.81e-06,0.198,-7.88,0.17,91.938,0.166,59,hiphop
+spotify:track:1OHoBC4icbuNhpSxP400sv,Drake,If You're Reading This It's Too Late,Preach,"['Drake', 'PARTYNEXTDOOR']",9,236973,True,11,0,4,0.165,0.605,0.511,8.95e-05,0.104,-8.094,0.475,65.256,0.379,59,hiphop
+spotify:track:6oLHyWvmk6bKrA91EIYZBp,Drake,If You're Reading This It's Too Late,Wednesday Night Interlude,"['Drake', 'PARTYNEXTDOOR']",10,212280,True,9,0,4,0.729,0.321,0.466,7.63e-06,0.215,-8.163,0.0512,135.089,0.194,57,hiphop
+spotify:track:63p3Slj0shAFP0Q7dQetj5,Drake,If You're Reading This It's Too Late,Used To,"['Drake', 'Lil Wayne']",11,268480,True,10,0,4,0.0703,0.926,0.427,0.00033,0.0818,-7.584,0.107,96.023,0.305,58,hiphop
+spotify:track:4kdfjhj9xNkYU0R8xlDy8k,Drake,If You're Reading This It's Too Late,6 Man,['Drake'],12,167653,True,4,1,4,0.217,0.812,0.535,0.0,0.114,-9.306,0.449,78.974,0.321,59,hiphop
+spotify:track:4zLOwx1yRJXWkHKt1XzF1p,Drake,If You're Reading This It's Too Late,Now & Forever,['Drake'],13,281320,True,10,0,4,0.124,0.555,0.481,0.0,0.101,-7.419,0.0322,107.806,0.0981,57,hiphop
+spotify:track:6ImxYXeLDQPIv4qo7bMhSk,Drake,If You're Reading This It's Too Late,Company,"['Drake', 'Travis Scott']",14,252640,True,7,1,4,0.0403,0.651,0.55,0.0,0.165,-8.216,0.0496,107.571,0.119,60,hiphop
+spotify:track:2YaDRtIlQiZ5WDDB2YuEOC,Drake,If You're Reading This It's Too Late,You & The 6,['Drake'],15,264906,True,3,1,4,0.166,0.574,0.476,0.0,0.129,-7.444,0.282,154.531,0.223,56,hiphop
+spotify:track:7JXZq0JgG2zTrSOAgY8VMC,Drake,If You're Reading This It's Too Late,Jungle,['Drake'],16,320400,True,7,1,4,0.618,0.69,0.235,0.000144,0.107,-8.651,0.0541,99.906,0.378,69,hiphop
+spotify:track:5mZJwWdxAOR4xUvSGZvvMU,Drake,If You're Reading This It's Too Late,6PM In New York,['Drake'],17,283306,True,5,1,3,0.107,0.554,0.849,0.0,0.155,-4.154,0.25,128.428,0.386,54,hiphop
+spotify:track:69gz9onZQNVw55cMQsaYii,Drake,Nothing Was The Same (Deluxe),Tuscan Leather,['Drake'],1,366400,False,6,1,4,0.114,0.432,0.681,0.0,0.236,-5.4,0.437,77.793,0.296,50,hiphop
+spotify:track:6s64FyS9n0XYbGMLH3LOWU,Drake,Nothing Was The Same (Deluxe),Furthest Thing,['Drake'],2,267373,True,9,0,4,0.149,0.485,0.78,0.0,0.0568,-5.261,0.142,136.972,0.267,53,hiphop
+spotify:track:3dgQqOiQ9fCKVhNOedd2lf,Drake,Nothing Was The Same (Deluxe),Started From the Bottom,['Drake'],3,174120,True,8,1,4,0.0331,0.794,0.523,0.0,0.156,-7.829,0.161,86.307,0.56,66,hiphop
+spotify:track:1HnhCD1u0c4dHSMazmWGyM,Drake,Nothing Was The Same (Deluxe),Wu-Tang Forever,['Drake'],4,217600,True,1,0,4,0.0414,0.855,0.433,0.0,0.1,-8.447,0.15,99.975,0.394,52,hiphop
+spotify:track:3EJ9ZuqkL1kwgouugqsLu8,Drake,Nothing Was The Same (Deluxe),Own It,['Drake'],5,252053,True,8,0,4,0.0437,0.652,0.345,3.59e-05,0.297,-11.319,0.119,103.281,0.304,53,hiphop
+spotify:track:3X37NtwadSS0RM20dh2IgP,Drake,Nothing Was The Same (Deluxe),Worst Behavior,['Drake'],6,270200,True,9,1,4,0.156,0.777,0.778,1.08e-06,0.196,-6.349,0.136,109.925,0.437,55,hiphop
+spotify:track:2WC4sK0ryyysQhtDok9Ytr,Drake,Nothing Was The Same (Deluxe),From Time,"['Drake', 'Jhené Aiko']",7,322160,True,1,0,4,0.629,0.737,0.494,0.0,0.126,-9.723,0.416,94.485,0.44,66,hiphop
+spotify:track:6jdOi5U5LBzQrc4c1VT983,Drake,Nothing Was The Same (Deluxe),"Hold On, We're Going Home","['Drake', 'Majid Jordan']",8,227880,False,6,0,4,0.00411,0.773,0.414,3.37e-05,0.0733,-7.436,0.0961,99.993,0.289,71,hiphop
+spotify:track:1Sj81sMg37Hd4omn7Ow2qR,Drake,Nothing Was The Same (Deluxe),Connect,['Drake'],9,296400,True,6,0,4,0.411,0.685,0.489,0.0,0.132,-9.472,0.152,75.018,0.461,49,hiphop
+spotify:track:5dHpbFmZjWucrol0M7aNGU,Drake,Nothing Was The Same (Deluxe),The Language,['Drake'],10,224040,True,7,1,4,0.0118,0.823,0.662,0.0,0.0805,-8.426,0.318,120.117,0.533,52,hiphop
+spotify:track:5wTRsfZKeaQnQn8JeW8QYQ,Drake,Nothing Was The Same (Deluxe),305 To My City,"['Drake', 'Detail']",11,255826,True,4,0,3,0.0515,0.519,0.487,0.0,0.15,-8.803,0.242,112.281,0.126,46,hiphop
+spotify:track:5LnXWeA9tuWKI2C1H74iiJ,Drake,Nothing Was The Same (Deluxe),Too Much,"['Drake', 'Sampha']",12,261866,True,6,1,4,0.171,0.668,0.565,0.0,0.124,-5.879,0.505,140.489,0.142,56,hiphop
+spotify:track:4RI9eX7jNcdaQOJifn7t6z,Drake,Nothing Was The Same (Deluxe),Pound Cake / Paris Morton Music 2,"['Drake', 'JAY-Z']",13,433800,True,2,1,4,0.138,0.521,0.762,1.11e-05,0.114,-6.746,0.529,164.089,0.266,60,hiphop
+spotify:track:5Ggfa9cpkpfp5D6Rg0Yyw1,Drake,Nothing Was The Same (Deluxe),Come Thru,['Drake'],14,236360,True,3,1,4,0.163,0.472,0.468,0.0,0.586,-5.815,0.184,81.94,0.404,54,hiphop
+spotify:track:5ngydCLbzCEdtu8SEOXhPU,Drake,Nothing Was The Same (Deluxe),All Me,"['Drake', '2 Chainz', 'Big Sean']",15,271573,True,1,1,4,0.0703,0.668,0.515,0.0,0.223,-6.977,0.402,122.014,0.425,61,hiphop
+spotify:track:3t8pnImpBpOwxdtYBpKvA9,Drake,Nothing Was The Same (Deluxe),The Motion,['Drake'],16,241000,True,11,0,4,0.29,0.676,0.717,0.000368,0.0974,-8.219,0.0869,157.628,0.558,51,hiphop
+spotify:track:1WnqWQcWcuQbVzgE7ecfCY,Kanye West,JESUS IS KING,Every Hour,"['Kanye West', 'Sunday Service Choir']",1,112239,False,7,1,5,0.466,0.588,0.793,0.000647,0.913,-6.23,0.0794,76.997,0.694,66,hiphop
+spotify:track:39JRmdKFka1Oe09FoOCPI4,Kanye West,JESUS IS KING,Selah,['Kanye West'],2,164619,False,9,0,3,0.647,0.482,0.618,0.000859,0.32,-5.673,0.197,90.076,0.146,69,hiphop
+spotify:track:2QpGZOhTCHHiKmpSO9FW4h,Kanye West,JESUS IS KING,Follow God,['Kanye West'],3,104591,False,1,1,4,0.000248,0.529,0.9,1.21e-05,0.0426,-3.503,0.418,180.291,0.434,79,hiphop
+spotify:track:3JWiDGQX2eTlFvKj3Yssj3,Kanye West,JESUS IS KING,Closed On Sunday,['Kanye West'],4,151873,False,11,0,4,0.873,0.799,0.291,0.000641,0.139,-7.353,0.0318,97.984,0.406,71,hiphop
+spotify:track:2SasoXZyv82yYgHiVOvxQn,Kanye West,JESUS IS KING,On God,['Kanye West'],5,136350,False,9,0,4,0.0671,0.41,0.886,0.0,0.461,-4.413,0.155,72.577,0.393,69,hiphop
+spotify:track:24bnCCysWnbNRNUT4LpHcP,Kanye West,JESUS IS KING,Everything We Need,"['Kanye West', 'Ty Dolla $ign', 'Ant Clemons']",6,116559,False,9,0,4,0.312,0.894,0.416,0.0,0.146,-6.823,0.0538,116.96,0.463,69,hiphop
+spotify:track:454Epa1vrCGFddHXKyC1kb,Kanye West,JESUS IS KING,Water,"['Kanye West', 'Ant Clemons']",7,168419,False,2,1,4,0.57,0.505,0.281,0.000254,0.163,-12.404,0.1,82.338,0.283,66,hiphop
+spotify:track:6xRWoYwfwIKnT8bQGzKbxR,Kanye West,JESUS IS KING,God Is,['Kanye West'],8,203141,False,1,1,4,0.17,0.649,0.634,0.0,0.195,-4.394,0.0254,105.051,0.221,67,hiphop
+spotify:track:7r6aR2f57resC5r93LwMfK,Kanye West,JESUS IS KING,Hands On,"['Kanye West', 'Fred Hammond']",9,203174,False,1,0,4,0.558,0.514,0.393,0.0,0.282,-8.72,0.529,78.039,0.598,65,hiphop
+spotify:track:0oPOuDmmkVp3h6puekhs6P,Kanye West,JESUS IS KING,Use This Gospel,"['Kanye West', 'Clipse', 'Kenny G']",10,213877,False,0,0,4,0.614,0.611,0.459,0.0,0.126,-3.926,0.0422,148.28,0.177,69,hiphop
+spotify:track:7sBgFMWqDWQgrsNSpIBoe8,Kanye West,JESUS IS KING,Jesus Is Lord,['Kanye West'],11,49292,False,4,0,3,0.828,0.243,0.26,4.03e-05,0.532,-5.876,0.0305,76.61,0.327,63,hiphop
+spotify:track:3aUFrxO1B8EW63QchEl3wX,Kanye West,KIDS SEE GHOSTS,Feel The Love,"['KIDS SEE GHOSTS', 'Pusha T']",1,165053,True,0,0,4,0.126,0.58,0.469,7.32e-05,0.099,-5.946,0.104,110.573,0.369,66,hiphop
+spotify:track:7oHkit3F3vimtsBbnZkU0G,Kanye West,KIDS SEE GHOSTS,Fire,['KIDS SEE GHOSTS'],2,140526,True,6,1,4,0.472,0.709,0.751,4.71e-06,0.182,-3.801,0.16,104.999,0.37,61,hiphop
+spotify:track:6JyEh4kl9DLwmSAoNDRn5b,Kanye West,KIDS SEE GHOSTS,4th Dimension,"['KIDS SEE GHOSTS', 'Louis Prima']",3,153351,True,1,1,4,0.278,0.765,0.542,1.87e-05,0.609,-6.755,0.39,171.945,0.734,68,hiphop
+spotify:track:7GRTrWsP3yo2Fx8umJfA1X,Kanye West,KIDS SEE GHOSTS,Freeee,"['KIDS SEE GHOSTS', 'Ty Dolla $ign']",4,206605,True,9,0,4,0.00457,0.334,0.81,0.0,0.158,-4.855,0.0632,151.643,0.306,59,hiphop
+spotify:track:4RVbK6cV0VqWdpCDcx3hiT,Kanye West,KIDS SEE GHOSTS,Reborn,['KIDS SEE GHOSTS'],5,324674,True,0,1,4,0.339,0.585,0.597,0.0404,0.195,-7.499,0.037,100.051,0.227,72,hiphop
+spotify:track:2I3dW2dCBZAJGj5X21E53k,Kanye West,KIDS SEE GHOSTS,Kids See Ghosts,"['KIDS SEE GHOSTS', 'Yasiin Bey']",6,245098,True,2,1,4,0.113,0.841,0.682,9.65e-05,0.131,-7.007,0.0458,94.985,0.338,61,hiphop
+spotify:track:4kUZvXB3LC3an3HX6h0s17,Kanye West,KIDS SEE GHOSTS,Cudi Montage,['KIDS SEE GHOSTS'],7,197000,True,8,0,4,0.401,0.729,0.504,1.44e-06,0.121,-6.784,0.0321,110.011,0.305,63,hiphop
+spotify:track:0yhxBvedRdGxsPZHJNI4VA,Kanye West,ye,I Thought About Killing You,['Kanye West'],1,274186,True,2,1,4,0.867,0.752,0.396,0.0,0.0486,-7.932,0.411,116.016,0.417,60,hiphop
+spotify:track:1qsHYUd2c1wFGcn7e63QmG,Kanye West,ye,Yikes,['Kanye West'],2,188773,True,1,0,4,0.15,0.683,0.776,0.0,0.227,-3.251,0.341,173.996,0.223,67,hiphop
+spotify:track:3U21A07gAloCc4P7J8rxcn,Kanye West,ye,All Mine,['Kanye West'],3,145506,True,11,0,4,0.123,0.925,0.31,0.0,0.0931,-6.531,0.291,121.927,0.291,72,hiphop
+spotify:track:1nGoy0cEj0extAwXYNYTWd,Kanye West,ye,Wouldn't Leave,"['Kanye West', 'PARTYNEXTDOOR']",4,205546,True,3,1,4,0.495,0.556,0.432,0.0,0.308,-8.551,0.545,164.235,0.352,61,hiphop
+spotify:track:35KV2Nuib6jPMVN00O8iba,Kanye West,ye,No Mistakes,['Kanye West'],5,123040,True,10,0,4,0.0393,0.643,0.646,0.0,0.109,-2.442,0.0629,80.174,0.35,59,hiphop
+spotify:track:7vgTNTaEz3CsBZ1N4YQalM,Kanye West,ye,Ghost Town,"['Kanye West', 'PARTYNEXTDOOR']",6,271386,True,7,0,4,0.0969,0.573,0.545,0.0,0.329,-4.247,0.0288,83.378,0.297,69,hiphop
+spotify:track:3s7MCdXyWmwjdcWh7GWXas,Kanye West,ye,Violent Crimes,['Kanye West'],7,215320,True,1,0,4,0.376,0.669,0.419,0.0,0.187,-6.724,0.522,109.813,0.0397,68,hiphop
+spotify:track:1eQBEelI2NCy7AUTerX0KS,Kanye West,The Life Of Pablo,Ultralight Beam,['Kanye West'],1,320680,True,0,0,4,0.62,0.592,0.403,0.0,0.54,-8.768,0.414,105.169,0.391,70,hiphop
+spotify:track:4KW1lqgSr8TKrvBII0Brf8,Kanye West,The Life Of Pablo,Father Stretch My Hands Pt. 1,['Kanye West'],2,135920,True,7,1,4,0.118,0.724,0.573,0.0,0.538,-4.113,0.0549,113.088,0.438,72,hiphop
+spotify:track:1Wsbr1d2BouNGk2q92mIj7,Kanye West,The Life Of Pablo,Pt. 2,['Kanye West'],3,130293,True,11,1,4,0.552,0.674,0.752,0.0,0.787,-4.073,0.333,145.076,0.236,65,hiphop
+spotify:track:19a3JfW8BQwqHWUMbcqSx8,Kanye West,The Life Of Pablo,Famous,['Kanye West'],4,196040,True,6,1,4,0.0711,0.465,0.735,0.0,0.0975,-3.715,0.117,173.935,0.409,71,hiphop
+spotify:track:49fT6owWuknekShh9utsjv,Kanye West,The Life Of Pablo,Feedback,['Kanye West'],5,147240,True,8,0,4,0.563,0.811,0.566,0.0,0.104,-6.033,0.517,100.224,0.169,60,hiphop
+spotify:track:36o4taPyOdnOMf01ERmn9a,Kanye West,The Life Of Pablo,Low Lights,['Kanye West'],6,131773,True,7,1,4,0.706,0.603,0.593,0.0,0.121,-4.685,0.109,101.956,0.523,56,hiphop
+spotify:track:4qYLPta5HZ36idWiXtqh7B,Kanye West,The Life Of Pablo,Highlights,['Kanye West'],7,199866,True,2,1,4,0.00572,0.547,0.626,0.0,0.313,-6.244,0.208,101.971,0.346,59,hiphop
+spotify:track:6wfzokDylbrJzrJcpnBkcy,Kanye West,The Life Of Pablo,Freestyle 4,['Kanye West'],8,123386,True,9,0,4,0.0449,0.564,0.537,0.0,0.0907,-8.381,0.095,126.036,0.459,58,hiphop
+spotify:track:5CGS4UovzA7ftCJkLVXQju,Kanye West,The Life Of Pablo,I Love Kanye,['Kanye West'],9,44826,True,5,1,4,0.594,0.756,0.374,0.0,0.217,-7.966,0.741,80.326,0.966,57,hiphop
+spotify:track:3nAq2hCr1oWsIU54tS98pL,Kanye West,The Life Of Pablo,Waves,['Kanye West'],10,181573,True,10,1,4,0.0528,0.557,0.586,7.33e-06,0.339,-4.57,0.0382,96.091,0.0681,71,hiphop
+spotify:track:30Zcjs7pgEkmJA1lEbGSWT,Kanye West,The Life Of Pablo,FML,['Kanye West'],11,236120,True,5,1,4,0.329,0.527,0.415,0.0,0.195,-7.184,0.131,125.357,0.12,67,hiphop
+spotify:track:66Q3fAmSX5eHamgbKa9alP,Kanye West,The Life Of Pablo,Real Friends,['Kanye West'],12,251573,True,6,0,4,0.262,0.441,0.744,0.000382,0.138,-6.248,0.476,81.396,0.124,66,hiphop
+spotify:track:432hUIl3ISDeytYW5XBQ5h,Kanye West,The Life Of Pablo,Wolves,['Kanye West'],13,301586,True,1,1,4,0.219,0.395,0.392,0.00173,0.134,-8.034,0.0925,155.856,0.103,70,hiphop
+spotify:track:20r94xA0bsYNLtYSiOE6r3,Kanye West,The Life Of Pablo,Frank's Track,['Kanye West'],14,38333,True,11,1,4,0.976,0.655,0.179,0.0,0.105,-6.903,0.0722,140.687,0.758,60,hiphop
+spotify:track:1ZnA4VYOlYIShuGt60LmCs,Kanye West,The Life Of Pablo,Siiiiiiiiilver Surffffeeeeer Intermission,['Kanye West'],15,56560,True,9,1,4,0.982,0.788,0.409,0.000203,0.11,-11.917,0.881,72.623,0.925,53,hiphop
+spotify:track:2CHmgtK8OCL28WtIK96u4N,Kanye West,The Life Of Pablo,30 Hours,['Kanye West'],16,323302,True,7,1,4,0.0359,0.823,0.813,0.0,0.0886,-6.71,0.288,95.012,0.373,60,hiphop
+spotify:track:0zLClc0emc6qUeV1p5nc99,Kanye West,The Life Of Pablo,No More Parties In LA,['Kanye West'],17,374413,True,5,1,4,0.246,0.508,0.921,0.0,0.221,-1.644,0.303,93.058,0.681,64,hiphop
+spotify:track:3MnbXlC1N7GdS9M8HzA6no,Kanye West,The Life Of Pablo,Facts,['Kanye West'],18,200733,True,1,0,4,0.0518,0.777,0.662,0.0,0.168,-3.761,0.143,142.059,0.4,59,hiphop
+spotify:track:3cCxoOgfi6hgt8MNteuiiD,Kanye West,The Life Of Pablo,Fade,['Kanye West'],19,193747,True,9,0,4,0.118,0.752,0.765,0.0,0.31,-5.805,0.0908,105.998,0.309,67,hiphop
+spotify:track:1o0kWPueYo94LIjPYOE5Nf,Kanye West,The Life Of Pablo,Saint Pablo,['Kanye West'],20,372113,True,2,0,4,0.282,0.461,0.772,0.0,0.178,-3.98,0.375,167.018,0.414,63,hiphop
+spotify:track:1gqkRc9WtOpnGIqxf2Hvzr,Kanye West,Yeezus,On Sight,['Kanye West'],1,156480,True,9,0,4,0.487,0.608,0.469,0.0,0.28,-3.182,0.325,102.528,0.515,54,hiphop
+spotify:track:722tgOgdIbNe3BEyLnejw4,Kanye West,Yeezus,Black Skinhead,['Kanye West'],2,188013,True,1,1,4,0.00112,0.766,0.821,0.0,0.168,-6.124,0.268,130.073,0.299,73,hiphop
+spotify:track:0HMCdlOPJkAGlB0MlSWIcO,Kanye West,Yeezus,I Am A God,['Kanye West'],3,231506,True,4,0,4,0.0366,0.506,0.532,0.000783,0.165,-7.403,0.0713,111.829,0.303,56,hiphop
+spotify:track:4cAgkb0ifwn0FSHGXnr4F6,Kanye West,Yeezus,New Slaves,['Kanye West'],4,256093,True,1,1,4,0.166,0.579,0.59,1.09e-05,0.096,-4.322,0.0708,150.189,0.361,61,hiphop
+spotify:track:5nIu0VwPOsjkF61zfevLKh,Kanye West,Yeezus,Hold My Liquor,['Kanye West'],5,326946,True,8,1,4,0.0199,0.495,0.322,7.61e-06,0.115,-10.36,0.0337,106.992,0.0399,61,hiphop
+spotify:track:52NmkyHsGsHGb1UX8fTkMg,Kanye West,Yeezus,I'm In It,['Kanye West'],6,234853,True,1,1,4,0.141,0.486,0.604,0.0,0.0668,-4.591,0.344,170.312,0.45,55,hiphop
+spotify:track:42GcjriRK6srwHkfbkBqVl,Kanye West,Yeezus,Blood On The Leaves,['Kanye West'],7,359800,True,2,0,4,0.396,0.454,0.69,0.0,0.101,-4.108,0.157,171.989,0.37,65,hiphop
+spotify:track:5nPOM0nFRAJ3XI8xCxNAzO,Kanye West,Yeezus,Guilt Trip,['Kanye West'],8,243746,True,4,0,4,0.159,0.439,0.666,1.03e-05,0.129,-6.078,0.0754,137.9,0.579,53,hiphop
+spotify:track:3RKblQNJs8HPvWBgXmq6nn,Kanye West,Yeezus,Send It Up,['Kanye West'],9,178040,True,9,1,4,0.292,0.624,0.544,7.41e-05,0.282,-5.193,0.34,93.585,0.363,55,hiphop
+spotify:track:3sNVsP50132BTNlImLx70i,Kanye West,Yeezus,Bound 2,['Kanye West'],10,229146,True,1,1,4,0.145,0.365,0.666,0.0,0.113,-2.821,0.0471,149.445,0.311,69,hiphop
+spotify:track:6TPTfc7wJIT2jh5Aa8VuGz,Kanye West,Kanye West Presents Good Music Cruel Summer,To The World - Album Version,"['Kanye West', 'R. Kelly', 'Teyana Taylor']",1,230986,False,4,1,4,0.211,0.722,0.556,0.0,0.104,-8.194,0.124,141.925,0.534,33,hiphop
+spotify:track:7fuuAPjPDyLGyFaJEkSxAb,Kanye West,Kanye West Presents Good Music Cruel Summer,Clique - Album Version,"['Kanye West', 'JAY-Z', 'Big Sean']",2,293533,False,9,0,5,0.0562,0.717,0.541,0.0,0.306,-5.942,0.235,109.448,0.327,50,hiphop
+spotify:track:0nh1o1936u4X7MaatN56j8,Kanye West,Kanye West Presents Good Music Cruel Summer,Mercy.1 - Album Version,"['Kanye West', 'Big Sean', 'Pusha T', '2 Chainz']",3,326280,False,6,0,4,0.0514,0.553,0.57,0.000102,0.424,-7.82,0.422,140.162,0.454,43,hiphop
+spotify:track:7yyXLa0qfOqyR17qfy8cm8,Kanye West,Kanye West Presents Good Music Cruel Summer,New God Flow.1 - Album Version,"['Kanye West', 'Pusha T', 'Ghostface Killah']",4,357293,False,3,0,4,0.459,0.475,0.949,0.0,0.722,-3.041,0.49,173.797,0.398,36,hiphop
+spotify:track:6oilcOya1YbTc9ibBp2bJs,Kanye West,Kanye West Presents Good Music Cruel Summer,The Morning - Album Version,"['Raekwon', 'Pusha T', 'Common', '2 Chainz', 'CyHi The Prynce', 'Kid Cudi', ""D'banj""]",5,275213,False,7,1,4,0.036,0.522,0.582,0.0,0.241,-6.903,0.408,80.483,0.185,38,hiphop
+spotify:track:69TBeUU01dxrQKZYEzKaVE,Kanye West,Kanye West Presents Good Music Cruel Summer,Cold.1 - Album Version,"['Kanye West', 'DJ Khaled']",6,216213,False,4,0,5,0.0017,0.671,0.888,0.0,0.239,-4.094,0.0831,106.705,0.612,33,hiphop
+spotify:track:2hhfoWnSh1RIYrOhXzhAOA,Kanye West,Kanye West Presents Good Music Cruel Summer,Higher - Album Version,"['The-Dream', 'Pusha T', 'Ma$e', 'Cocaine 80s']",7,274280,False,5,0,4,0.0158,0.658,0.65,0.000211,0.122,-7.952,0.116,153.974,0.276,32,hiphop
+spotify:track:5yyW5zyUXeVcdoBFmxRjAf,Kanye West,Kanye West Presents Good Music Cruel Summer,Sin City - Album Version,"['John Legend', 'Travis Scott', 'Teyana Taylor', 'CyHi The Prynce', 'Malik Yusef']",8,268386,False,10,0,4,0.0425,0.55,0.625,0.0,0.0823,-8.462,0.117,82.946,0.237,34,hiphop
+spotify:track:7CfxN8x1qsUrova92PF8P2,Kanye West,Kanye West Presents Good Music Cruel Summer,The One - Album Version,"['Kanye West', 'Big Sean', '2 Chainz', 'Marsha Ambrosius']",9,344880,False,6,0,4,0.0391,0.529,0.757,0.0,0.127,-5.333,0.145,139.919,0.256,32,hiphop
+spotify:track:51PO0Md0UhUWdzN4hcEuiN,Kanye West,Kanye West Presents Good Music Cruel Summer,Creepers - Album Version,['Kid Cudi'],10,194013,False,2,1,4,0.0217,0.605,0.74,0.00192,0.115,-8.084,0.0842,197.961,0.0767,34,hiphop
+spotify:track:62I2M5Nz5VdCLygDMgDZUM,Kanye West,Kanye West Presents Good Music Cruel Summer,Bliss - Album Version,"['John Legend', 'Teyana Taylor']",11,210013,False,3,1,4,0.0127,0.356,0.66,0.0,0.445,-8.216,0.0401,76.368,0.411,30,hiphop
+spotify:track:51mK2xGop7WMDVeuHLvhWP,Kanye West,Kanye West Presents Good Music Cruel Summer,Don't Like.1 - Album Version,"['Kanye West', 'Chief Keef', 'Pusha T', 'Big Sean', 'Jadakiss']",12,282880,False,2,1,4,0.00708,0.499,0.604,0.0,0.113,-5.443,0.296,132.069,0.626,44,hiphop
+spotify:track:3Osd3Yf8K73aj4ySn6LrvK,Kanye West,Watch The Throne (Deluxe),No Church In The Wild,"['JAY-Z', 'Kanye West', 'Frank Ocean', 'The-Dream']",1,272506,True,8,0,4,0.246,0.654,0.751,0.0179,0.167,-7.508,0.105,92.781,0.568,69,hiphop
+spotify:track:08T26i7SErk6jCDTW7uUFI,Kanye West,Watch The Throne (Deluxe),Lift Off,"['JAY-Z', 'Kanye West', 'Beyoncé']",2,266253,True,2,0,3,0.187,0.403,0.784,0.00177,0.165,-7.584,0.171,179.427,0.275,58,hiphop
+spotify:track:4Li2WHPkuyCdtmokzW2007,Kanye West,Watch The Throne (Deluxe),Ni**as In Paris,"['JAY-Z', 'Kanye West']",3,219333,True,1,1,4,0.127,0.788,0.859,0.0,0.348,-5.542,0.315,140.027,0.769,77,hiphop
+spotify:track:6vegnfDS8DAEaCqWaPYGPy,Kanye West,Watch The Throne (Deluxe),Otis,"['JAY-Z', 'Kanye West', 'Otis Redding']",4,178213,True,7,0,4,0.552,0.755,0.631,0.0,0.5,-4.751,0.302,94.571,0.433,66,hiphop
+spotify:track:5Pt83OUaK3K9C2if4C5JOk,Kanye West,Watch The Throne (Deluxe),Gotta Have It,"['JAY-Z', 'Kanye West']",5,140746,True,4,1,4,0.411,0.74,0.574,0.0,0.262,-6.938,0.245,149.762,0.33,62,hiphop
+spotify:track:3SIgBSv9D8Nm3CvP0o0Q9Z,Kanye West,Watch The Throne (Deluxe),New Day,"['JAY-Z', 'Kanye West']",6,272853,True,10,0,4,0.389,0.561,0.645,7.05e-05,0.142,-6.809,0.0705,91.005,0.359,55,hiphop
+spotify:track:3TJxCXkL774hhGUmzFLUgy,Kanye West,Watch The Throne (Deluxe),That's My Bitch,"['JAY-Z', 'Kanye West']",7,202560,True,7,1,4,0.237,0.745,0.871,0.000293,0.121,-6.291,0.113,108.985,0.495,53,hiphop
+spotify:track:6N43Qgg9jx21vfMkTYvSi3,Kanye West,Watch The Throne (Deluxe),Welcome To The Jungle,"['JAY-Z', 'Kanye West']",8,174133,True,2,1,4,0.0128,0.636,0.93,3.7e-06,0.18,-5.179,0.364,92.899,0.325,53,hiphop
+spotify:track:3R1k8P1MrDdLSRhlTaaWAS,Kanye West,Watch The Throne (Deluxe),Who Gon Stop Me,"['JAY-Z', 'Kanye West']",9,256706,True,0,0,4,0.0408,0.594,0.73,0.000164,0.715,-4.638,0.159,133.88,0.378,60,hiphop
+spotify:track:1smcSwXObpmxcjCulmjMgy,Kanye West,Watch The Throne (Deluxe),Murder To Excellence,"['JAY-Z', 'Kanye West']",10,300960,True,1,1,4,0.024,0.566,0.816,0.0,0.0804,-4.741,0.32,87.353,0.578,57,hiphop
+spotify:track:4Mx5gDSGBHbrsgJR7r1QwJ,Kanye West,Watch The Throne (Deluxe),Made In America,"['JAY-Z', 'Kanye West', 'Frank Ocean']",11,292066,True,11,0,4,0.043,0.71,0.729,5.88e-05,0.224,-7.01,0.219,165.899,0.55,53,hiphop
+spotify:track:4lLmG1fatRUgnRz0Ol0WUi,Kanye West,Watch The Throne (Deluxe),Why I Love You,"['JAY-Z', 'Kanye West', 'Mr Hudson']",12,201373,True,5,1,4,0.0261,0.481,0.805,0.0,0.269,-4.132,0.0419,123.441,0.373,56,hiphop
+spotify:track:4HWQexsnWXsAKBJp52hU4G,Kanye West,Watch The Throne (Deluxe),Illest Motherf**ker Alive,"['JAY-Z', 'Kanye West']",13,503320,True,11,1,4,0.171,0.553,0.663,1.64e-06,0.595,-6.412,0.0837,139.979,0.299,51,hiphop
+spotify:track:7esMRbSzvLv60O70XLZFbc,Kanye West,Watch The Throne (Deluxe),H•A•M,"['Kanye West', 'JAY-Z']",14,275733,True,8,1,4,0.0462,0.657,0.523,0.0,0.322,-4.907,0.0614,140.046,0.0382,56,hiphop
+spotify:track:5zes2uxTNuqNlO6toDTZN5,Kanye West,Watch The Throne (Deluxe),Primetime,"['JAY-Z', 'Kanye West']",15,199240,True,11,0,4,0.166,0.662,0.923,9.64e-06,0.31,-4.085,0.21,84.99,0.469,51,hiphop
+spotify:track:0fjUmA3EdEZBBVyKNhsct0,Kanye West,Watch The Throne (Deluxe),The Joy,"['JAY-Z', 'Kanye West', 'Curtis Mayfield']",16,317920,True,7,1,4,0.146,0.584,0.516,3.07e-05,0.139,-6.256,0.325,79.743,0.326,50,hiphop
+spotify:track:7yNK27ZTpHew0c55VvIJgm,Kanye West,My Beautiful Dark Twisted Fantasy,Dark Fantasy,['Kanye West'],1,280786,True,5,1,4,0.274,0.59,0.587,0.0,0.167,-5.919,0.0457,88.015,0.367,65,hiphop
+spotify:track:23SZWX2IaDnxmhFsSLvkG2,Kanye West,My Beautiful Dark Twisted Fantasy,Gorgeous,"['Kanye West', 'Kid Cudi', 'Raekwon']",2,357653,True,1,0,4,0.0207,0.603,0.713,0.000179,0.431,-3.625,0.0317,91.953,0.12,66,hiphop
+spotify:track:2gZUPNdnz5Y45eiGxpHGSc,Kanye West,My Beautiful Dark Twisted Fantasy,POWER,['Kanye West'],3,292093,True,0,0,4,0.0162,0.543,0.915,0.0,0.744,-4.746,0.113,153.998,0.577,77,hiphop
+spotify:track:4D6TpthzUVNTjWQqfBW5Kb,Kanye West,My Beautiful Dark Twisted Fantasy,All Of The Lights,['Kanye West'],4,62253,True,10,0,3,0.902,0.296,0.0792,0.591,0.128,-16.569,0.0392,111.272,0.497,58,hiphop
+spotify:track:22L7bfCiAkJo5xGSQgmiIO,Kanye West,My Beautiful Dark Twisted Fantasy,All Of The Lights,['Kanye West'],5,299613,True,1,1,4,0.0796,0.541,0.803,1.71e-05,0.176,-3.284,0.0738,142.135,0.221,74,hiphop
+spotify:track:1ZHYJ2Wwgxes4m8Ba88PeK,Kanye West,My Beautiful Dark Twisted Fantasy,Monster,"['Kanye West', 'JAY-Z', 'Rick Ross', 'Nicki Minaj', 'Bon Iver']",6,378893,True,2,1,5,0.00244,0.628,0.692,0.013,0.668,-5.64,0.202,124.791,0.0964,69,hiphop
+spotify:track:6K07Ahf6V7CAQn0ikrOztl,Kanye West,My Beautiful Dark Twisted Fantasy,So Appalled,"['Kanye West', 'JAY-Z', 'Pusha T', 'CyHi The Prynce', 'Swizz Beatz', 'RZA']",7,397666,True,1,0,4,0.255,0.629,0.754,0.0,0.63,-5.873,0.289,87.07,0.58,59,hiphop
+spotify:track:1UGD3lW3tDmgZfAVDh6w7r,Kanye West,My Beautiful Dark Twisted Fantasy,Devil In A New Dress,"['Kanye West', 'Rick Ross']",8,351946,True,8,0,4,0.0175,0.433,0.76,0.0,0.158,-4.935,0.0726,79.789,0.205,66,hiphop
+spotify:track:3DK6m7It6Pw857FcQftMds,Kanye West,My Beautiful Dark Twisted Fantasy,Runaway,"['Kanye West', 'Pusha T']",9,547733,True,1,0,4,0.218,0.571,0.568,0.0021,0.512,-3.827,0.0703,86.986,0.109,71,hiphop
+spotify:track:3rCNmRonlHN1TXQLcG3dSk,Kanye West,My Beautiful Dark Twisted Fantasy,Hell Of A Life,['Kanye West'],10,327786,True,8,1,4,0.00142,0.449,0.813,0.000172,0.106,-5.478,0.129,177.962,0.452,60,hiphop
+spotify:track:4EndPA8b6FDWYp1RgsnLEB,Kanye West,My Beautiful Dark Twisted Fantasy,Blame Game,"['Kanye West', 'John Legend']",11,469866,True,10,0,4,0.305,0.425,0.581,6.3e-05,0.11,-5.964,0.0646,83.352,0.636,59,hiphop
+spotify:track:2Im64pIz6m0EJKdUe6eZ8r,Kanye West,My Beautiful Dark Twisted Fantasy,Lost In The World,"['Kanye West', 'Bon Iver']",12,256586,True,5,0,4,0.115,0.609,0.746,0.0087,0.427,-5.249,0.184,117.072,0.277,61,hiphop
+spotify:track:4e5IPJxSGVWPsaxQzdRseN,Kanye West,My Beautiful Dark Twisted Fantasy,Who Will Survive In America,['Kanye West'],13,98200,True,1,1,4,0.228,0.676,0.843,0.000718,0.856,-6.111,0.359,116.152,0.597,52,hiphop
+spotify:track:4ulYASOuCUwa2hQRsE2OVh,Kanye West,808s & Heartbreak,Say You Will,['Kanye West'],1,377600,False,0,0,4,0.542,0.603,0.401,0.225,0.103,-10.155,0.0306,172.633,0.347,5,hiphop
+spotify:track:5Qhq7GH9AOvpP6h7QkRWTl,Kanye West,808s & Heartbreak,Welcome To Heartbreak,"['Kanye West', 'Kid Cudi']",2,262933,False,7,0,4,0.0985,0.677,0.435,0.721,0.111,-11.024,0.033,95.991,0.0729,7,hiphop
+spotify:track:4ZMJshw6UOvaTWWThYtEoW,Kanye West,808s & Heartbreak,Heartless,['Kanye West'],3,211000,False,10,0,4,0.0515,0.79,0.647,0.0,0.248,-5.983,0.136,87.999,0.654,9,hiphop
+spotify:track:01UniWABhnIka7GgvzOC02,Kanye West,808s & Heartbreak,Amazing,"['Kanye West', 'Jeezy']",4,238333,False,8,1,4,0.216,0.588,0.554,0.118,0.0619,-8.406,0.0545,146.133,0.496,6,hiphop
+spotify:track:05bIHrj5BTUoQxXZS6IH3M,Kanye West,808s & Heartbreak,Love Lockdown,['Kanye West'],5,270306,False,1,0,4,0.0542,0.76,0.524,0.5,0.112,-7.67,0.0323,119.603,0.112,8,hiphop
+spotify:track:6S4ifbZ4Q2DhhD0ysxftK3,Kanye West,808s & Heartbreak,Paranoid,"['Kanye West', 'Mr Hudson']",6,277906,False,6,1,4,0.114,0.587,0.611,9.83e-05,0.0765,-7.408,0.106,114.991,0.464,5,hiphop
+spotify:track:02IlA1DlVZa5chlik45jv5,Kanye West,808s & Heartbreak,RoboCop,['Kanye West'],7,274360,False,5,0,4,0.157,0.698,0.447,0.00564,0.405,-8.04,0.102,133.776,0.407,5,hiphop
+spotify:track:5ByRHOS9edOQr436aB8NdN,Kanye West,808s & Heartbreak,Street Lights,['Kanye West'],8,189906,False,6,1,4,0.0287,0.644,0.487,0.0166,0.206,-9.654,0.034,125.528,0.467,5,hiphop
+spotify:track:3I9MY53joyhqFNKjqGHJKy,Kanye West,808s & Heartbreak,Bad News,['Kanye West'],9,238773,False,9,1,4,0.0288,0.749,0.436,0.201,0.114,-11.99,0.0393,106.171,0.167,4,hiphop
+spotify:track:60903t5ee2xtH5dHJ0AnPQ,Kanye West,808s & Heartbreak,See You In My Nightmares,"['Kanye West', 'Lil Wayne']",10,258120,False,7,0,4,0.0626,0.676,0.432,0.0,0.103,-8.035,0.0339,124.597,0.156,4,hiphop
+spotify:track:3Oa5mzKpQM8MrpcylcnnNJ,Kanye West,808s & Heartbreak,Coldest Winter,['Kanye West'],11,164333,False,0,1,4,0.171,0.761,0.516,3.21e-06,0.265,-10.229,0.044,133.999,0.562,3,hiphop
+spotify:track:2H4MsAq1bT8Wr78Sc8WFJg,Kanye West,808s & Heartbreak,Pinocchio Story - Freestyle / Live From Singapore,['Kanye West'],12,361600,False,10,0,4,0.95,0.341,0.281,0.0,0.948,-13.204,0.0501,74.997,0.306,2,hiphop
+spotify:track:6LbtKCO7lJ08RUVUwbWN1J,Kanye West,Graduation (French Limited Version),Good Morning,['Kanye West'],1,195200,True,0,1,4,0.0711,0.58,0.618,0.000119,0.146,-5.457,0.127,169.714,0.543,21,hiphop
+spotify:track:3gKfCgabK5ohZNh24p7BBE,Kanye West,Graduation (French Limited Version),Champion,['Kanye West'],2,167506,True,6,1,4,0.00303,0.669,0.5,0.0,0.687,-8.315,0.27,102.091,0.777,18,hiphop
+spotify:track:0zQS4nZPuKl1isqXVGhwUg,Kanye West,Graduation (French Limited Version),Stronger,['Kanye West'],3,311946,True,10,0,4,0.00529,0.631,0.72,0.0,0.372,-7.854,0.13,103.987,0.478,37,hiphop
+spotify:track:6uStyLa1SkHVKk7KXtSso8,Kanye West,Graduation (French Limited Version),I Wonder,['Kanye West'],4,243426,True,0,1,4,0.139,0.684,0.463,0.000394,0.385,-8.665,0.0424,95.679,0.11,18,hiphop
+spotify:track:222vBtQSGtX6yCL8S5Y5Ui,Kanye West,Graduation (French Limited Version),Good Life,"['Kanye West', 'T-Pain']",5,207013,True,10,0,4,0.00226,0.378,0.722,0.0,0.518,-8.117,0.344,169.275,0.516,20,hiphop
+spotify:track:1j3a021kY7d7Qqxq2HMrI8,Kanye West,Graduation (French Limited Version),Can't Tell Me Nothing,['Kanye West'],6,271600,True,5,0,4,0.0126,0.467,0.623,0.0,0.675,-6.166,0.0506,79.506,0.0978,22,hiphop
+spotify:track:6sAjm55flRReDptlqsxi34,Kanye West,Graduation (French Limited Version),Barry Bonds,"['Kanye West', 'Lil Wayne']",7,204333,True,1,1,4,0.0387,0.631,0.637,0.0,0.282,-6.175,0.308,82.995,0.735,13,hiphop
+spotify:track:25AoFOqP4k514bcKe7XS1A,Kanye West,Graduation (French Limited Version),Drunk and Hot Girls,"['Kanye West', 'Mos Def']",8,313226,True,10,0,3,0.0595,0.659,0.454,3.92e-06,0.134,-7.317,0.0308,82.767,0.293,13,hiphop
+spotify:track:43sHR9wKITXBE7Xnnjg2X4,Kanye West,Graduation (French Limited Version),Flashing Lights,['Kanye West'],9,237506,True,6,0,4,0.0328,0.637,0.624,0.0,0.338,-7.592,0.0394,90.493,0.455,31,hiphop
+spotify:track:4WX5Y4nATvRwi2M9GpTHnp,Kanye West,Graduation (French Limited Version),Everything I Am,"['Kanye West', 'DJ Premier']",10,227773,True,8,1,4,0.424,0.601,0.629,4.24e-06,0.14,-6.947,0.288,80.493,0.752,18,hiphop
+spotify:track:50pq2uoicYhN7yOsO3cdel,Kanye West,Graduation (French Limited Version),The Glory,['Kanye West'],11,212826,True,6,1,4,0.0572,0.399,0.646,0.0,0.128,-7.269,0.291,82.762,0.677,15,hiphop
+spotify:track:2DvDmy9aCv9TajH0MkHsXa,Kanye West,Graduation (French Limited Version),Homecoming,['Kanye West'],12,203506,True,10,0,4,0.353,0.682,0.744,0.0,0.12,-7.067,0.172,87.009,0.915,26,hiphop
+spotify:track:3I1hxWXVYhH6rjd3sn3P4n,Kanye West,Graduation (French Limited Version),Big Brother,['Kanye West'],13,287413,True,11,0,4,0.17,0.456,0.729,0.0,0.072,-6.751,0.236,81.502,0.309,14,hiphop
+spotify:track:6kaltnzR4QATRbBWHDWCp2,Kanye West,Graduation (French Limited Version),Stronger - A-Trak Remix,['Kanye West'],14,276146,False,1,1,4,0.00405,0.73,0.797,0.00049,0.0723,-4.981,0.119,126.0,0.382,10,hiphop
+spotify:track:4kq7ehLZmuiJeFUrRxm7W7,Kanye West,Graduation (French Limited Version),Stronger - AD Remix Main,['Kanye West'],15,285880,False,3,0,4,0.00677,0.721,0.91,0.0166,0.0754,-5.439,0.0336,124.009,0.73,9,hiphop
+spotify:track:5BfMJ6iytQnu1r7iiCYSXe,Khalid,Free Spirit,Intro,['Khalid'],1,213253,False,0,1,4,0.308,0.213,0.414,0.0257,0.0912,-9.725,0.0339,79.556,0.0553,61,hiphop
+spotify:track:2vsuel3g4zaLYSOY0mOMbi,Khalid,Free Spirit,Bad Luck,['Khalid'],2,231653,False,1,0,4,0.277,0.432,0.52,0.371,0.138,-5.515,0.0548,164.047,0.303,68,hiphop
+spotify:track:2XKFnwB6djxrJCjR3PdeRb,Khalid,Free Spirit,My Bad,['Khalid'],3,163973,False,0,0,4,0.547,0.577,0.578,0.59,0.264,-9.146,0.0906,84.965,0.367,65,hiphop
+spotify:track:339Y993TrFyWyO438be0RY,Khalid,Free Spirit,Better,['Khalid'],4,229400,False,0,0,4,0.0503,0.692,0.552,0.165,0.136,-9.543,0.0497,98.028,0.15,67,hiphop
+spotify:track:6TqXcAFInzjp0bODyvrWEq,Khalid,Free Spirit,Talk,"['Khalid', 'Disclosure']",5,197573,False,0,1,4,0.051,0.901,0.4,0.0,0.0599,-8.575,0.126,135.984,0.346,79,hiphop
+spotify:track:5A1w94uzc1kO1Zhe8WWxC3,Khalid,Free Spirit,Right Back,['Khalid'],6,215226,False,5,0,4,0.0649,0.789,0.427,3.62e-05,0.171,-9.918,0.308,97.032,0.605,68,hiphop
+spotify:track:1E6DEDWDKHoOW0fcFuDghV,Khalid,Free Spirit,Don't Pretend,"['Khalid', 'SAFE']",7,165840,False,11,1,4,0.258,0.697,0.551,0.00551,0.124,-8.833,0.0815,89.0,0.219,66,hiphop
+spotify:track:6fOOKqQWcSy33ApU1wqkkW,Khalid,Free Spirit,Paradise,['Khalid'],8,173653,False,11,1,4,0.206,0.581,0.452,0.00329,0.0881,-9.558,0.15,75.046,0.523,65,hiphop
+spotify:track:0HEckRWFSknIupbGzavk5d,Khalid,Free Spirit,Hundred,['Khalid'],9,277080,False,6,0,4,0.0521,0.772,0.483,0.000375,0.377,-10.06,0.0564,120.005,0.479,66,hiphop
+spotify:track:09oZ9eXQ2fo6YDrPzJqAoP,Khalid,Free Spirit,Outta My Head,"['Khalid', 'John Mayer']",10,177066,False,0,1,4,0.0174,0.729,0.545,0.000274,0.369,-7.818,0.0316,103.012,0.514,73,hiphop
+spotify:track:2kAIpGWnlFLQh48iut6Zzq,Khalid,Free Spirit,Free Spirit,['Khalid'],11,182080,False,2,0,4,0.308,0.627,0.446,0.00077,0.111,-9.477,0.0332,139.994,0.11,74,hiphop
+spotify:track:1NgCWYuBLfqBDA3b8MgSVU,Khalid,Free Spirit,Twenty One,['Khalid'],12,184200,False,9,1,4,0.212,0.776,0.445,0.00409,0.124,-8.574,0.0371,109.981,0.405,65,hiphop
+spotify:track:42w7pX3r1TpLR0i55Ek5ND,Khalid,Free Spirit,Bluffin',['Khalid'],13,199240,False,0,1,3,0.354,0.529,0.314,0.000436,0.102,-10.323,0.0461,129.664,0.288,63,hiphop
+spotify:track:1WqLtczgKdbHFHhefOU0y7,Khalid,Free Spirit,Self,['Khalid'],14,229960,False,1,0,4,0.44,0.618,0.693,0.759,0.101,-7.889,0.333,143.98,0.439,60,hiphop
+spotify:track:12VqHHz4wvVcnEdSivjLeQ,Khalid,Free Spirit,Alive,['Khalid'],15,177413,False,11,1,4,0.832,0.386,0.406,0.0597,0.171,-10.419,0.0425,78.616,0.205,64,hiphop
+spotify:track:0Hgqglypzt6Qs5Duqskcqs,Khalid,Free Spirit,Heaven,['Khalid'],16,213026,False,8,1,4,0.613,0.42,0.479,0.663,0.0679,-8.881,0.0374,116.989,0.11,63,hiphop
+spotify:track:1fHRzxbts9A8J1ergDe7Kz,Khalid,Free Spirit,Saturday Nights,['Khalid'],17,211626,False,10,1,4,0.634,0.574,0.37,9.38e-05,0.0986,-10.803,0.0841,83.162,0.354,68,hiphop
+spotify:track:7EROK3PMgkCG3wdwcbeauW,Khalid,Suncity,9.13,['Khalid'],1,55720,False,2,1,3,0.975,0.289,0.451,0.942,0.222,-15.013,0.0538,131.72,0.59,50,hiphop
+spotify:track:7stcuQtnHL7C6XdPvpwywv,Khalid,Suncity,Vertigo,['Khalid'],2,270413,False,4,0,4,0.552,0.487,0.458,0.0257,0.117,-7.761,0.0371,115.989,0.207,65,hiphop
+spotify:track:7vGGAJBkHKxKtOnGjQduDV,Khalid,Suncity,Saturday Nights,['Khalid'],3,209546,False,10,1,4,0.635,0.54,0.439,1.93e-05,0.0993,-8.591,0.115,167.908,0.371,69,hiphop
+spotify:track:0v75ti1d2M6pd0sC42UNNN,Khalid,Suncity,Salem's Interlude,['Khalid'],4,81933,True,7,0,4,0.963,0.479,0.485,0.658,0.152,-12.302,0.162,80.933,0.457,50,hiphop
+spotify:track:65DzdjRWH35DNsBZBjW523,Khalid,Suncity,Motion,['Khalid'],5,235880,False,0,1,4,0.0982,0.554,0.61,0.0812,0.561,-7.229,0.0804,80.948,0.497,65,hiphop
+spotify:track:2OpBganfGk2GVdSlRdxzaX,Khalid,Suncity,Better,['Khalid'],6,229320,False,0,0,4,0.102,0.695,0.586,0.317,0.113,-10.315,0.0658,98.035,0.112,63,hiphop
+spotify:track:6SkHm6poyKfzV6kc9any8k,Khalid,Suncity,Suncity,"['Khalid', 'Empress Of']",7,189493,False,7,0,4,0.0998,0.694,0.63,0.000635,0.12,-6.84,0.162,90.045,0.341,69,hiphop
+spotify:track:312WNtMs3F28cUukaPY9bo,Khalid,American Teen,American Teen,['Khalid'],1,250746,False,0,1,4,0.0683,0.658,0.623,0.0,0.321,-6.934,0.0398,100.436,0.207,70,hiphop
+spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,Khalid,American Teen,Young Dumb & Broke,['Khalid'],2,202546,False,1,1,4,0.199,0.798,0.539,1.66e-05,0.165,-6.351,0.0421,136.949,0.394,81,hiphop
+spotify:track:152lZdxL1OR0ZMW6KquMif,Khalid,American Teen,Location,['Khalid'],3,219080,False,1,0,4,0.33,0.736,0.449,0.000162,0.0898,-11.462,0.425,80.126,0.326,80,hiphop
+spotify:track:52Qu0no0NBho3zyRmjlsHn,Khalid,American Teen,Another Sad Love Song,['Khalid'],4,244746,False,5,0,4,0.412,0.834,0.472,6.76e-05,0.0836,-7.777,0.0873,107.014,0.517,70,hiphop
+spotify:track:248OFOZef6ShXv6DGgbnxU,Khalid,American Teen,Saved,['Khalid'],5,206533,False,10,0,4,0.189,0.739,0.448,0.0,0.118,-10.28,0.138,81.044,0.553,74,hiphop
+spotify:track:39KG4kom3enSx4GTThuDGt,Khalid,American Teen,Coaster,['Khalid'],6,199120,False,8,1,4,0.935,0.441,0.219,0.0,0.115,-14.586,0.0419,94.021,0.244,75,hiphop
+spotify:track:5bgwqaRSS3M8WHWruHgSL5,Khalid,American Teen,8TEEN,['Khalid'],7,228600,False,1,1,4,0.225,0.83,0.585,0.00209,0.0576,-5.802,0.0366,105.03,0.642,78,hiphop
+spotify:track:6AIccJIWHGK26xi34FAkwl,Khalid,American Teen,Let's Go,['Khalid'],8,204546,True,9,1,4,0.572,0.78,0.371,0.0,0.247,-6.705,0.0559,108.003,0.43,63,hiphop
+spotify:track:3JTtZUOiZljuWbNiasfHB6,Khalid,American Teen,Hopeless,['Khalid'],9,167640,False,7,1,4,0.643,0.785,0.702,0.0,0.175,-4.517,0.0464,116.021,0.569,62,hiphop
+spotify:track:34izzOmykADkGT27pUjUvJ,Khalid,American Teen,Cold Blooded,['Khalid'],10,207960,False,9,0,4,0.777,0.71,0.405,0.000163,0.111,-10.864,0.0519,103.04,0.402,62,hiphop
+spotify:track:4V3VshJLUTCIWa77YiAkvM,Khalid,American Teen,Winter,['Khalid'],11,241866,False,1,1,4,0.101,0.678,0.575,9.38e-06,0.116,-7.086,0.123,100.007,0.367,63,hiphop
+spotify:track:25YvGDl2zSE0pH8jrMZ6aY,Khalid,American Teen,Therapy,['Khalid'],12,257959,False,9,0,4,0.891,0.707,0.484,0.00344,0.256,-6.579,0.0481,92.988,0.43,64,hiphop
+spotify:track:6SWHTMywuTXLFlMQ75cAuu,Khalid,American Teen,Keep Me,['Khalid'],13,276226,False,2,0,4,0.368,0.778,0.574,0.0,0.126,-7.775,0.0327,112.048,0.663,62,hiphop
+spotify:track:1Ob94QesoxHSBrypyBbdfd,Khalid,American Teen,Shot Down,['Khalid'],14,207106,False,6,1,4,0.893,0.767,0.512,0.000223,0.103,-6.777,0.0591,123.921,0.489,68,hiphop
+spotify:track:67kXYrMTQbS7MVbXyGyxHm,Khalid,American Teen,Angels,['Khalid'],15,170680,False,6,0,4,0.959,0.472,0.265,0.000499,0.1,-10.059,0.0356,111.558,0.204,65,hiphop
